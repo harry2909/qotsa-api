@@ -19,7 +19,8 @@ class LyricsResource extends JsonResource
         return [
             'id' => $this->id,
             'lyrics' => $this->lyrics,
-            'relatedSong' => $this->song_id
+            'relatedSong' => $this->song,
+            'relatedAlbum' => $this->song->album,
         ];
     }
 }
