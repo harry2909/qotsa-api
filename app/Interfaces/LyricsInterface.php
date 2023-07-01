@@ -1,6 +1,7 @@
 <?php
 namespace App\Interfaces;
 
-interface LyricsInterface {
+interface LyricsInterface
+{
     public function getRandomLyrics();
 }

@@ -10,7 +10,8 @@ class APIController extends Controller
 {
     protected LyricsService $lyricsService;
 
-    public function __construct(LyricsService $lyricsService) {
+    public function __construct(LyricsService $lyricsService)
+    {
         $this->lyricsService = $lyricsService;
     }
 
