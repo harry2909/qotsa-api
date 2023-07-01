@@ -2,17 +2,21 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 use App\Http\Resources\LyricsResource;
+use App\Services\LyricsService;
+use Illuminate\Http\JsonResponse;
 
 class APIController extends Controller
 {
-    public function returnRandomLyric() {
-        $lyricsTest = (object)[
-            'id'           => 1,
-            'lyrics'       => "You're solid gold, I'll see you in hell",
-            'relatedAlbum' => 'Queens Of The Stone Age',
-        ];
-        return response()->json(new LyricsResource($lyricsTest));
+    protected LyricsService $lyricsService;
+
+    public function __construct(LyricsService $lyricsService) {
+        $this->lyricsService = $lyricsService;
+    }
+
+    public function returnRandomLyric(): JsonResponse
+    {
+        $randomLyrics = $this->lyricsService->getRandomLyrics();
+        return response()->json(new LyricsResource($randomLyrics));
     }
 }

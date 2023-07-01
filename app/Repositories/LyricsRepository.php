@@ -2,10 +2,19 @@
 
 namespace App\Repositories;
 
-class LyricsRepository
+use App\Interfaces\LyricsInterface;
+use App\Models\Lyrics;
+
+class LyricsRepository implements LyricsInterface
 {
-    public function __construct()
+    private Lyrics $model;
+
+    public function __construct(Lyrics $lyrics)
     {
-        //
+        $this->model = $lyrics;
+    }
+    public function getRandomLyrics()
+    {
+        return $this->model->first();
     }
 }
