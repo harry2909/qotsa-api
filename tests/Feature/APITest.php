@@ -28,7 +28,7 @@ class APITest extends TestCase
     {
         $this->withoutExceptionHandling();
         $response = $this->json('GET', '/api/lyrics/');
-        print_r($response);
+
         $response->assertStatus(200);
     }
 
@@ -37,7 +37,7 @@ class APITest extends TestCase
     {
         $this->withoutExceptionHandling();
         $response = $this->json('GET', '/api/lyrics/');
-        print_r($response);
+
         $response->assertStatus(200)
             ->assertJsonStructure([
                 'id',
