@@ -33,9 +33,9 @@ jobs:
         env:
           DB_CONNECTION: sqlite
           DB_DATABASE: database/database.sqlite
-        run: vendor/bin/phpunit --coverage-xml coverage.xml
+        run: vendor/bin/phpunit --coverage-xml="unit_report.xml"
       - name: Upload coverage reports to Codecov
         uses: codecov/codecov-action@v3
         env:
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
-          file: ./coverage.xml
+          file: ./tests/Coverage/unit_report.xml
