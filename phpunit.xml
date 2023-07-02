@@ -14,6 +14,9 @@
             <directory suffix=".php">./app</directory>
         </include>
     </source>
+    <logging>
+        <junit outputFile="./tests/Coverage/unit_report.xml"/>
+    </logging>
     <php>
         <env name="APP_ENV" value="testing"/>
         <env name="BCRYPT_ROUNDS" value="4"/>
