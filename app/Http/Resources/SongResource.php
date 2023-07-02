@@ -6,21 +6,20 @@ use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 use JetBrains\PhpStorm\ArrayShape;
 
-class LyricsResource extends JsonResource
+class SongResource extends JsonResource
 {
     /**
      * Transform the resource into an array.
      *
      * @return array<string, mixed>
      */
-    #[ArrayShape(['id' => "int", 'lyrics' => "string", 'relatedSong' => "int", "relatedAlbum" => "mixed"])]
+    #[ArrayShape(['id' => "int", 'songName' => "string", 'relatedAlbum' => "mixed"])]
     public function toArray(Request $request): array
     {
         return [
             'id' => $this->id,
-            'lyrics' => $this->lyrics,
-            'relatedSong' => $this->song,
-            'relatedAlbum' => $this->song->album,
+            'songName' => $this->name,
+            'relatedAlbum' => $this->album,
         ];
     }
 }

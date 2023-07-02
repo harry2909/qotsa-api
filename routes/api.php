@@ -15,8 +15,11 @@ use App\Http\Controllers\APIController;
 |
 */
 
-//Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-//    return $request->user();
-//});
-
+// Return random lyrics
 Route::get('/lyrics', [APIController::class, 'returnRandomLyric']);
+
+// Return random song
+Route::get('/song', [APIController::class, 'returnRandomSong']);
+
+// Return random album
+Route::get('/album', [APIController::class, 'returnRandomAlbum']);
