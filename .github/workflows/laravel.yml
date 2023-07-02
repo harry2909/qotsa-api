@@ -34,8 +34,10 @@ jobs:
           DB_CONNECTION: sqlite
           DB_DATABASE: database/database.sqlite
         run: vendor/bin/phpunit --coverage-clover unit_report.xml
+      - name: List directory contents
+        run: ls -la
       - name: Upload coverage reports to Codecov
         uses: codecov/codecov-action@v3
         env:
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
-          file: unit_report.xml
+          file: ./unit_report.xml
