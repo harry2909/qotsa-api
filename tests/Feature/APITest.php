@@ -50,8 +50,7 @@ class APITest extends TestCase
             ->assertJsonStructure([
                 'id',
                 'lyrics',
-                'relatedSong',
-                'relatedAlbum',
+                'metadata',
             ]);
     }
 
@@ -64,7 +63,7 @@ class APITest extends TestCase
             ->assertJsonStructure([
                 'id',
                 'songName',
-                'relatedAlbum',
+                'metadata'
             ]);
     }
 
@@ -77,6 +76,7 @@ class APITest extends TestCase
             ->assertJsonStructure([
                 'id',
                 'albumName',
+                'metadata'
             ]);
     }
 }
