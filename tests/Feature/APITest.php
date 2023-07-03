@@ -13,36 +13,70 @@ class APITest extends TestCase
     public function setUp(): void
     {
         parent::setUp();
-
-        // run the migrations
         $this->artisan('migrate:fresh');
-
-        // seed the database
         $this->artisan('db:seed --class=AlbumSongLyricsSeeder');
-        // or you can call
-        // $this->seed();
     }
 
     /** @test */
-    public function api_endpoint_returns_data(): void
+    public function lyrics_endpoint_returns_200(): void
     {
         $this->withoutExceptionHandling();
         $response = $this->json('GET', '/api/lyrics/');
-
         $response->assertStatus(200);
     }
 
     /** @test */
-    public function api_endpoint_returns_data_with_specific_json_structure(): void
+    public function song_endpoint_returns_200(): void
+    {
+        $this->withoutExceptionHandling();
+        $response = $this->json('GET', '/api/song/');
+        $response->assertStatus(200);
+    }
+
+    /** @test */
+    public function album_endpoint_returns_200(): void
+    {
+        $this->withoutExceptionHandling();
+        $response = $this->json('GET', '/api/album/');
+        $response->assertStatus(200);
+    }
+
+    /** @test */
+    public function lyrics_endpoint_returns_data_with_specific_json_structure(): void
     {
         $this->withoutExceptionHandling();
         $response = $this->json('GET', '/api/lyrics/');
-
         $response->assertStatus(200)
             ->assertJsonStructure([
                 'id',
                 'lyrics',
-                'relatedSong',
+                'metadata',
+            ]);
+    }
+
+    /** @test */
+    public function song_endpoint_returns_data_with_specific_json_structure(): void
+    {
+        $this->withoutExceptionHandling();
+        $response = $this->json('GET', '/api/song/');
+        $response->assertStatus(200)
+            ->assertJsonStructure([
+                'id',
+                'songName',
+                'metadata'
+            ]);
+    }
+
+    /** @test */
+    public function album_endpoint_returns_data_with_specific_json_structure(): void
+    {
+        $this->withoutExceptionHandling();
+        $response = $this->json('GET', '/api/album/');
+        $response->assertStatus(200)
+            ->assertJsonStructure([
+                'id',
+                'albumName',
+                'metadata'
             ]);
     }
 }
