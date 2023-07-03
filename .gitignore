@@ -18,4 +18,4 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-tests/Coverage/unit_report.xml
+/tests/Coverage/unit_report.xml

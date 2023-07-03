@@ -13,13 +13,17 @@ class SongResource extends JsonResource
      *
      * @return array<string, mixed>
      */
-    #[ArrayShape(['id' => "int", 'songName' => "string", 'relatedAlbum' => "mixed"])]
+    #[ArrayShape(['id' => "mixed", 'songName' => "mixed", 'metadata' => "array"])]
     public function toArray(Request $request): array
     {
         return [
             'id' => $this->id,
             'songName' => $this->name,
-            'relatedAlbum' => $this->album,
+            'metadata' => [
+                'run_time' => $this->run_time,
+                'spotify_url' => $this->spotify_url,
+                'relatedAlbum' => $this->album,
+            ]
         ];
     }
 }
