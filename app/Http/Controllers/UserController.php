@@ -6,6 +6,7 @@ use App\Services\UserService;
 use App\Http\Requests\LoginUserRequest;
 use App\Http\Requests\StoreUserRequest;
 use Illuminate\Http\RedirectResponse;
+use Illuminate\Http\JsonResponse;
 
 class UserController extends Controller
 {
@@ -13,7 +14,6 @@ class UserController extends Controller
 
     public function __construct(UserService $userService)
     {
-
         $this->userService = $userService;
     }
 
@@ -25,5 +25,9 @@ class UserController extends Controller
     public function loginUser(LoginUserRequest $request): RedirectResponse
     {
         return $this->userService->loginUser($request);
+    }
+    public function generateToken(): JsonResponse
+    {
+        return response()->json(['token' => $this->userService->generateToken()]);
     }
 }

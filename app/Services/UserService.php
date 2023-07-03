@@ -5,11 +5,12 @@ namespace App\Services;
 use App\Http\Requests\LoginUserRequest;
 use App\Http\Requests\StoreUserRequest;
 use App\Interfaces\UserRepositoryInterface;
-use App\Models\User;
+use App\Interfaces\UserServiceInterface;
+use Illuminate\Http\JsonResponse;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Support\Facades\Auth;
 
-class UserService
+class UserService implements UserServiceInterface
 {
     protected UserRepositoryInterface $userRepository;
 
@@ -32,8 +33,6 @@ class UserService
             return redirect()->route('generate-token');
         }
 
-        dd('error');
-
         return back()->withErrors([
             'email' => 'The provided credentials do not match our records.',
         ]);
@@ -45,8 +44,10 @@ class UserService
         return redirect()->route('login');
     }
 
-    public function generateToken(): User
+    public function generateToken(): String
     {
-        // @TODO: Implement generateToken() method.
+        $user = Auth::user();
+        $tokenResult = $user->createToken('authToken');
+        return $tokenResult->plainTextToken;
     }
 }

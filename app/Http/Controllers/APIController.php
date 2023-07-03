@@ -19,7 +19,7 @@ class APIController extends Controller
     public function __construct(
         LyricsService $lyricsService,
         AlbumService  $albumService,
-        SongService   $songService
+        SongService   $songService,
     )
     {
         $this->lyricsService = $lyricsService;
