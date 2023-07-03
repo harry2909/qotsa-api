@@ -23,3 +23,5 @@ Route::get('/song', [APIController::class, 'returnRandomSong']);
 
 // Return random album
 Route::get('/album', [APIController::class, 'returnRandomAlbum']);
+
+//Route::get('/tokens/create', function (Request $request);

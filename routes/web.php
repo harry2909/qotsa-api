@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\UserController;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,6 +15,23 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/register', function () {
+    return view('register');
+});
+
+Route::post('/register', [UserController::class, 'saveUser']);
+
+Route::get('/generate-token', function () {
+    return view('generate-token');
+})->name('generate-token');
+
+Route::get('/login', function () {
+    return view('login');
+});
+
+Route::post('/login', [UserController::class, 'loginUser']);
+
+Route::get('/logout', function () {
+    Auth::logout();
+    return redirect()->route('login');
 });
