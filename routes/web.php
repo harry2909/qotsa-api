@@ -35,5 +35,6 @@ Route::get('/logout', function () {
     Auth::logout();
     return redirect()->route('login');
 });
-
-Route::post('/generate-token', [UserController::class, 'generateToken']);
+Route::middleware('throttle:5,60')->group(function () {
+    Route::post('/generate-token', [UserController::class, 'generateToken']);
+});
