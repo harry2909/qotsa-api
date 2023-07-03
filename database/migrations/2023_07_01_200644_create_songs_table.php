@@ -12,8 +12,10 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('songs', function (Blueprint $table) {
-            $table->id();
+            $table->id()->autoIncrement();
             $table->string('name');
+            $table->float('run_time');
+            $table->string('spotify_url');
             $table->foreignId('album_id')->constrained('albums');
             $table->timestamps();
         });
