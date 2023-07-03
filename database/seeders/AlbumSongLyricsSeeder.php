@@ -6,13 +6,12 @@ use App\Models\Album;
 use App\Models\Song;
 use App\Models\Lyrics;
 use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\Storage;
 
 class AlbumSongLyricsSeeder extends Seeder
 {
     public function run()
     {
-        $jsonData = Storage::get('./qotsaData/data.json');
+        $jsonData = file_get_contents(base_path('./qotsaData/data.json'));
         $decodedData = json_decode($jsonData, true);
         foreach ($decodedData as $albumData) {
             Album::firstOrCreate(
