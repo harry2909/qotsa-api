@@ -256,7 +256,7 @@
                     "I got a feeling",
                     "There's devils and ropes around my neck",
                     "I can't even know",
-                    ",'Cause I can't hear it",
+                    "'Cause I can't hear it",
                     "Can't hear it",
                     "Can't hear it",
                     "Can't hear it"
@@ -705,7 +705,7 @@
                 "lyrics": [
                     "Would you like a way home?",
                     "I'll bleed my own",
-                    ",'Round the hangin' tree",
+                    "'Round the hangin' tree",
                     "Swaying in the breeze",
                     "In the summer sun",
                     "As we two are one",
@@ -716,20 +716,20 @@
                     "Swaying",
                     "Can you see under my thumb?",
                     "There you are",
-                    ",'Round the hangin' tree",
+                    "'Round the hangin' tree",
                     "Swaying in the breeze",
                     "In the summer sun",
                     "As we two are one",
-                    ",'Round the hangin' tree",
+                    "'Round the hangin' tree",
                     "Swaying in the breeze",
                     "In the summer sun",
                     "As we two are one",
                     "Swaying",
-                    ",'Round the hangin' tree",
+                    "'Round the hangin' tree",
                     "Swaying in the breeze",
                     "In the summer sun",
                     "As we two are one",
-                    ",'Round the hangin' tree",
+                    "'Round the hangin' tree",
                     "Swaying in the breeze",
                     "In the summer sun",
                     "As we two are one",
@@ -958,7 +958,7 @@
                     "Now the time has come",
                     "To leave this love that's left you dry",
                     "No need to work this out now",
-                    ",'Cause you know there's no reason why",
+                    "'Cause you know there's no reason why",
                     "It's just another love song",
                     "Another love song",
                     "Another love song",
@@ -1080,6 +1080,1675 @@
                 "run_time": 5.37,
                 "spotify_url": "https://open.spotify.com/track/24R9lWmmNbyemIrDcN5za2",
                 "album_id": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Lullabies to Paralyze",
+        "release_date": "21-03-2005",
+        "run_time": 66,
+        "spotify_url": "https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8",
+        "songs": [
+            {
+                "id": 1,
+                "name": "This Lullaby",
+                "lyrics": [
+                    "Where, oh, where have you been my love?",
+                    "Where, oh, where can you be?",
+                    "It's been so long since the moon has gone",
+                    "And, oh, what a wreck you've made me",
+                    "Are you there over the ocean?",
+                    "Are you there up in the sky?",
+                    "Until the return of my love, this lullaby",
+                    "My hope is on the horizon",
+                    "Every face, your eyes I can see",
+                    "I plead and pray though each night and day",
+                    "Our embrace is only a dream",
+                    "And as sure as days come from moments",
+                    "Each hour becomes a life's time",
+                    "When she'd left, I'd only begun this lullaby"
+                ],
+                "run_time": 1.22,
+                "spotify_url": "https://open.spotify.com/track/1xisM5en8um4cmnDwCg6rM",
+                "album_id": 3
+            },
+            {
+                "id": 2,
+                "name": "Medication",
+                "lyrics": [
+                    "Medication for us all, it's a new way",
+                    "And we're gonna take it 'cause we love it",
+                    "Don't you know?",
+                    "Is this the dose you've been dreaming of?",
+                    "A revelation from a gun",
+                    "Doesn't matter",
+                    "Overtaken, mine was yours, now overthrown",
+                    ",(Oohooh-oohooh-oohooh, oohooh-oohooh-oohooh",
+                    "Oohooh-oohooh-oohooh-weeooh-weeooh-doo-doo-doo-doo-doo)",
+                    "No",
+                    "Just copulation in a song",
+                    "I'm so contagious, can I come?",
+                    "In the new way",
+                    "All of us cast asides became what has become",
+                    ",(Ahhh)",
+                    ",(Oohooh-oohooh-oohooh, oohooh-oohooh-oohooh",
+                    "Oohooh-oohooh-oohooh, oohooh-oohooh-oohooh",
+                    "Weeooh-weeooh-doo-doo-doo-doo-doo)",
+                    "No",
+                    "Medication for us all",
+                    "You think you know me, well you're wrong",
+                    "Doesn't matter",
+                    "All of us cast aside became what has become"
+                ],
+                "run_time": 1.54,
+                "spotify_url": "https://open.spotify.com/track/0r5fNYdvlZnn8AXdwvIt0e",
+                "album_id": 3
+            },
+            {
+                "id": 3,
+                "name": "Everybody Knows That You Are Insane",
+                "lyrics": [
+                    "You wanna know why you feel so hollow?",
+                    "'Cause you are",
+                    "You're missing out, well, if you say so",
+                    "Then you're missing out",
+                    "Everybody knows that you're insane",
+                    "Everybody knows that you're insane",
+                    "You wanna know just how long you can hide from",
+                    "What you are, not very long",
+                    "I have been lost, down every road I follow",
+                    "Out in the dark and on my way home",
+                    "Everybody knows that you're insane",
+                    "Everybody knows that you're insane",
+                    "Everybody knows that you're insane",
+                    "Everybody knows that you're insane",
+                    "And I feel nothing, am I better yet?",
+                    "And I feel nothing, am I better yet?",
+                    "And I feel nothing, am I better yet?",
+                    "And I feel nothing, am I better yet?",
+                    "Everybody knows that you're insane",
+                    "Everybody knows that you're insane",
+                    "Everybody knows that you're insane",
+                    "Everybody knows that you're insane"
+                ],
+                "run_time": 4.14,
+                "spotify_url": "https://open.spotify.com/track/3ZfgaRA2HfIQSkpfJQT4qi",
+                "album_id": 3
+            },
+            {
+                "id": 4,
+                "name": "Tangled Up in Plaid",
+                "lyrics": [
+                    "I slipped",
+                    "Didn't mean, didn't mean to do it that way",
+                    "But I blew in on a whim, gone tomorrow?",
+                    "(Shit) I'm gone today",
+                    "Oh yeah, oh yeah",
+                    "Oh-oh-oh yeah",
+                    ",(Yeah, yeah, yeah)",
+                    ",(Yeah, yeah, yeah)",
+                    ",(Ooh, woah)",
+                    ",(Yeah, yeah, yeah)",
+                    "Come, let's play along",
+                    "And let each other lose",
+                    "A win would cause an alarm",
+                    "Don't matter to me, don't matter to you",
+                    "Oh yeah, oh yeah",
+                    "Oh-oh-oh yeah",
+                    "I could keep you all for myself",
+                    "I know you gotta be free",
+                    "So free yourself",
+                    "I could keep you all for myself",
+                    "I know you gotta be free",
+                    "So free yourself",
+                    ",(Yeah, yeah, yeah)",
+                    ",(Ooh, woah)",
+                    ",(Yeah, yeah, yeah)",
+                    "Self-inflicted wound",
+                    "Your gift, impeccable aim",
+                    "Can really clear a room",
+                    "All the bodies piled up in your wake",
+                    "Oh yeah",
+                    ",(It hurts) So bad",
+                    ",(It must) Oh yeah",
+                    "I could keep you all for myself",
+                    "I know you gotta be free",
+                    "So free yourself",
+                    "I could keep you all for myself",
+                    "I know you gotta be free",
+                    "So kill yourself"
+                ],
+                "run_time": 4.13,
+                "spotify_url": "https://open.spotify.com/track/68rbW0UQA8glH74VMRgbKb",
+                "album_id": 3
+            },
+            {
+                "id": 5,
+                "name": "Burn the Witch",
+                "lyrics": [
+                    "Burn the witch",
+                    "Burn the witch",
+                    "Burn the witch",
+                    "Burn the witch",
+                    "Holding hands",
+                    "Skipping like a stone",
+                    "On our way",
+                    "To see what we have done",
+                    "The first to speak",
+                    "Is the first to lie",
+                    "The children cross",
+                    "Their hearts and hope to die",
+                    "Bite your tongue",
+                    "Swear to keep your mouth shut",
+                    "Ask yourself",
+                    "Will I burn in Hell?",
+                    "Then write it down",
+                    "And cast it in the well",
+                    "There they are",
+                    "The mob, it cries for blood",
+                    "To twist the tale",
+                    "Into firewood",
+                    "Fan the flames",
+                    "With a little lie",
+                    "Then turn your cheek",
+                    "Until the fire dies",
+                    "The skin, it peels",
+                    "Like the truth, away",
+                    "What it was",
+                    "I will never say",
+                    "Bite your tongue",
+                    "Swear to keep, keep your mouth shut",
+                    "Make up something",
+                    "Make up something good",
+                    "Holding hands",
+                    "Skipping like a stone",
+                    "Burn the witch",
+                    "Burn to ash and bone",
+                    "Burn the witch",
+                    "Burn to ash and bone",
+                    "Burn the witch",
+                    "Burn to ash and bone"
+                ],
+                "run_time": 3.35,
+                "spotify_url": "https://open.spotify.com/track/5mDA2REjyAxzEJZAFtiBSI",
+                "album_id": 3
+            },
+            {
+                "id": 6,
+                "name": "In My Head",
+                "lyrics": [
+                    "It's the cruelest joke to play",
+                    "I'm so high, I run in place",
+                    "Only a line we separate, so",
+                    "I keep on playing our favorite song",
+                    "I turn it up while you're gone",
+                    "It's all I've got when you're in my head",
+                    "And you're in my head, so I need it",
+                    "You're the only thing I've got",
+                    "I can't seem to get enough",
+                    "We collide for one embrace, so",
+                    "I keep on playing our favorite song",
+                    "I turn it up while you're gone",
+                    "It's all I've got when you're in my head",
+                    "And you're in my head, so I need it",
+                    "I keep on playing our favorite song",
+                    "I turn it up while you're gone",
+                    "It's all I've got when you're in my head",
+                    "And you're in my head, so I need it",
+                    "Oh, oh",
+                    "Hurry up, and wait forever",
+                    "I keep on playing our favorite song",
+                    "I turn it up while you're gone",
+                    "It's all I've got when you're in my head (It's all I've got)",
+                    "And you're in my head, so I need it (In my head)",
+                    "I keep on playing our favorite song",
+                    "I turn it up while you're gone",
+                    "It's all I've got when you're in my head",
+                    "And you're in my head, so I need it",
+                    "I need it",
+                    "I need it",
+                    "I need it",
+                    "Now"
+                ],
+                "run_time": 4.01,
+                "spotify_url": "https://open.spotify.com/track/5cABednUSqT0uMbl1s2nN6",
+                "album_id": 3
+            },
+            {
+                "id": 7,
+                "name": "Little Sister",
+                "lyrics": [
+                    "Hey, sister, why you all alone?",
+                    "I'm standing out your window",
+                    "Hey, little sister, can I come inside, dear?",
+                    "I want to show you all my love",
+                    "I want to be the only one",
+                    "I know you like nobody ever, baby",
+                    "Little sister, can't you find another way?",
+                    "No more living life behind a shadow",
+                    "Little sister, can't you find another way?",
+                    "No more living life behind a shadow",
+                    "You whisper secrets in my ear",
+                    "Slowly dancing cheek to cheek",
+                    "Such a sweet thing when you open up, baby",
+                    "They say I'll only do you wrong",
+                    "Come together 'cause I understand",
+                    "Just who you really are, yeah, baby",
+                    "Little sister, can't you find another way?",
+                    "No more living life behind a shadow",
+                    "Little sister, can't you find another way?",
+                    "No more living life behind a shadow",
+                    "A shadow"
+                ],
+                "run_time": 2.54,
+                "spotify_url": "https://open.spotify.com/track/6Td8HRLhdV39kKdOQpfQum",
+                "album_id": 3
+            },
+            {
+                "id": 8,
+                "name": "I Never Came",
+                "lyrics": [
+                    "When you say it's dead and gone",
+                    "Yes I know, you're wrong",
+                    "Cut and slash, sharpest knife",
+                    "It won't die, yeah",
+                    "Poison cup, drank it up",
+                    "It won't die",
+                    "No fire, no gun, no rope, no stone",
+                    "It won't die, yeah",
+                    "Why you gotta shove it in my face?",
+                    "As if you put me in my place",
+                    "'Cause I don't care if you or me is wrong or right",
+                    "Not goin' to spend another night",
+                    "In your bed, in your bed",
+                    "Laws of men are just pretend",
+                    "They ain't mine",
+                    "Love, so good, love so bad",
+                    "It won't die",
+                    "Some talk too long, they know it all",
+                    "Well, I just smile and move on",
+                    "Words ain't free like you and me",
+                    "I don't mind, yeah",
+                    "Why'd you have to be so mean and cruel?",
+                    "The dogs are loose, I'm on to you",
+                    "You ball and chained together from the dawn to dusk",
+                    "Can't call it leaving 'cause it's just",
+                    "I never came",
+                    "I never came",
+                    "I never came",
+                    "I never came",
+                    "I never came",
+                    "I never came"
+                ],
+                "run_time": 4.48,
+                "spotify_url": "https://open.spotify.com/track/5GayzAdj3qbFpO0otdLLvc",
+                "album_id": 3
+            },
+            {
+                "id": 9,
+                "name": "Someone’s In the Wolf",
+                "lyrics": [
+                    "Once you're lost",
+                    "In twilights's blue",
+                    "You don't find your way",
+                    "The way finds you",
+                    "Tempt the fates",
+                    "Beware the smile",
+                    "It hides all the teeth, my dear",
+                    "What's behind them",
+                    "So glad you could stay forever",
+                    "So glad you could stay forever",
+                    "So glad you could stay forever",
+                    "So glad you could stay forever",
+                    "He steps between the trees",
+                    "A crooked man",
+                    "There's blood on the blade",
+                    "Don't take his hand",
+                    "You warm by the firelight, in twilight's blue",
+                    "Shadows creep and dance the walls",
+                    "He's creeping too",
+                    "So glad you could stay forever",
+                    "So glad you could stay forever",
+                    "So glad you could stay forever",
+                    "So glad you could stay forever",
+                    "So glad you could stay",
+                    "So glad you could",
+                    "So glad you could stay",
+                    "So glad you could",
+                    "So glad you could stay"
+                ],
+                "run_time": 7.15,
+                "spotify_url": "https://open.spotify.com/track/5k4HVmPOE3GusKQO8IcH7s",
+                "album_id": 3
+            },
+            {
+                "id": 10,
+                "name": "The Blood Is Love",
+                "lyrics": [
+                    "Saw you in a way",
+                    "Beyond figurin' out",
+                    "These lines of life",
+                    "Have been drawn and can't be removed",
+                    "Our eyes is all it took to know",
+                    "Open up your eyes",
+                    "Deep blue, glassy lake",
+                    "And swim till water and sky",
+                    "Now are one, out of two",
+                    "Oh, my bloodshot eyes",
+                    "Open up your mouth",
+                    "Touch your lips to mine",
+                    "That we may make a kiss",
+                    "That can pierce through death and survive",
+                    "Your words have branded my mind",
+                    "Still I hold your hand",
+                    "Wrapped as if a ring",
+                    "We of flesh and blood are only carrying",
+                    "It's so hard to, well, you know",
+                    "The seed waits for the reaper to sow",
+                    "Every breath an art",
+                    "The dignity to learn it can strain and break your heart",
+                    "Take all your pieces home",
+                    "You ask when you're alone, 'what is love'",
+                    "The blood is love"
+                ],
+                "run_time": 6.37,
+                "spotify_url": "https://open.spotify.com/track/56lC3RvLQqqnPIjlFfeoLS",
+                "album_id": 3
+            },
+            {
+                "id": 11,
+                "name": "Skin On Skin",
+                "lyrics": [
+                    "From the moment you said “why haven’t you kissed me yet?”",
+                    "I knew I’d wipe that paint from your lips",
+                    "I stare the lids off your eyes",
+                    "Gone down on your dirty mind",
+                    "And end up between your hips",
+                    "Handfuls of sweat tangled hair, anytime, anywhere",
+                    "I wanna lick you too much, baby",
+                    "I just play all alone, whispering for your moan",
+                    "Forced to crawl down this line, just to touch",
+                    "I can get in, I can’t get out",
+                    "I can get in, I can’t get out",
+                    "I’m just sweating my sheets",
+                    "I hate to see you leave",
+                    "But I love to watch you go, baby",
+                    "Twisted secret lives",
+                    "The way you bat your eyes",
+                    "Giving head, giving head, giving head",
+                    "Watch you come from above",
+                    "I’m so needy for love",
+                    "I’m desperate, greedy in slavery",
+                    "Sneak around from behind",
+                    "I got a one-track mind",
+                    "We got a skin on skin thing, baby",
+                    "I wanna lick you too much",
+                    "I wanna lick you too much",
+                    "I hear you comin', ooh ahh, baby",
+                    "I wanna lick you too much",
+                    "I wanna lick you too much",
+                    "I hear you comin', ooh ahh, baby"
+                ],
+                "run_time": 3.42,
+                "spotify_url": "https://open.spotify.com/track/30ciTqpMtPHKLH9ffFICZO",
+                "album_id": 3
+            },
+            {
+                "id": 12,
+                "name": "Broken Box",
+                "lyrics": [
+                    "And you know this...",
+                    "(It's all mine, alright)",
+                    "I've got wine and so do you",
+                    "Mine came with the cork",
+                    "I wish yours did too",
+                    "Everyone just loves you so",
+                    "Well hurray! (Yay)",
+                    "Now you know where to go (Easy)",
+                    "In my head, you're all brand new",
+                    "I guess you're really all the same",
+                    "In my head, you're all brand new",
+                    "And tell your new boy where I came",
+                    "In my head, you're all brand new",
+                    "I just didn't want what you gave",
+                    "In my head, you're all brand new",
+                    "Go and find yourself another slave",
+                    "There you are",
+                    "There you are",
+                    "There you are",
+                    "Ooh, you're so in love, just like Juliet",
+                    "Well guess what?",
+                    "That's one thing that you can for-fucking-get",
+                    "Tears from the sky in pools of pain",
+                    "Well, baby tonight",
+                    "I'm gonna go and dance in the rain",
+                    "(Make up my own damn rules)",
+                    "In my head, you're all brand new",
+                    "I guess you're really all the same",
+                    "In my head, you're all brand new",
+                    "Tell your new boy where I came",
+                    "In my head, you're all brand new",
+                    "Take that broken pussy elsewhere",
+                    "In my head, you're all brand new",
+                    "Save it, baby, I don't care"
+                ],
+                "run_time": 3.02,
+                "spotify_url": "https://open.spotify.com/track/5r7kXCHXuN1hZ6cK55U4j0",
+                "album_id": 3
+            },
+            {
+                "id": 13,
+                "name": "You Got A Killer Scene There, Man...",
+                "lyrics": [
+                    "I don't mean to make obscene",
+                    "But even the mob know what the hell I mean",
+                    "The knot is tight, on my blindfold",
+                    "I got my flesh full of blood",
+                    "I hate rock and roll",
+                    "Some think too much, then come too soon",
+                    "I just curse the sun so I can howl at the moon",
+                    "Yeah, ooo, ah",
+                    "Yeah, ooo, ah",
+                    "Yeah, ooo, yeah, ah",
+                    "(Hah)",
+                    "Don't wanna love you no more",
+                    "Don't wanna love you less",
+                    "I wanna be crushed by your sweet caress",
+                    "What's the fucking difference? We all gonna die",
+                    "You gonna do something killer?",
+                    "Come on, give it a try",
+                    "Yeah, ooo, ay",
+                    "Yeah, ooo, yeah",
+                    "Yeah, ooo, ah",
+                    "Yeah, ooo, yeah, ah",
+                    "(Hah, hah)",
+                    "Got no big plans but a good idea",
+                    "Let's put this town in my rear-view mirror",
+                    "Yeah, I got enemies (Fuck 'em), but they don't know",
+                    "They won't get no glory on that side of the hole",
+                    "Yeah, ooo, ay",
+                    "Yeah, ooo, yeah",
+                    "Yeah, ooo, ah, yeah, yeah",
+                    "Yeah, yeah, yeah, yeah, yeah, yeah, yeah",
+                    "(Hah, hah)",
+                    "We are united, by drifting alone",
+                    "This is the army of none, got no flag, got no home",
+                    "Just witches & scabs, an awful mess",
+                    "I confess (I confe...)",
+                    "Let's do it again",
+                    "Yeah, ooo, yeah",
+                    "Yeah, ooo, yeah",
+                    "Yeah, ooo, yeah",
+                    "Yeah, ooo, yeah",
+                    "Yeah, yeah, yeah, yeah, yeah",
+                    "(Hah)",
+                    "There's only one line I would get"
+                ],
+                "run_time": 4.56,
+                "spotify_url": "https://open.spotify.com/track/7DVxvGuoQbti54HrKHYXKI",
+                "album_id": 3
+            },
+            {
+                "id": 14,
+                "name": "Long Slow Goodbye",
+                "lyrics": [
+                    "Where have you gone again my sweet?",
+                    "Everybody wants to know",
+                    "Where have you gone again my sweet?",
+                    "Everybody wants to know",
+                    "Where you gone?",
+                    "Where you gone?",
+                    "I'm just a ghost, I'm on your street",
+                    "Waiting, when you coming home?",
+                    "I'm just a ghost, I'm on your street",
+                    "Waiting, when you coming home?",
+                    "Gone so long",
+                    "Where you gone?",
+                    "On a long slow goodbye?",
+                    "On a long slow goodbye",
+                    "In every voice, I hear you speak",
+                    "Waiting by the telephone",
+                    "I close my eyes, I just can't sleep",
+                    "Roll and tumble all night long",
+                    "All night long",
+                    "Where you gone? yeah",
+                    "On a long slow goodbye",
+                    "On a long slow goodbye",
+                    "On a long slow goodbye",
+                    "On a long slow goodbye",
+                    "I close my eyes, I just can't sleep",
+                    "Where have you gone again my sweet?",
+                    "On a long slow goodbye?",
+                    "On a long slow goodbye",
+                    "On a long slow goodbye",
+                    "On a long slow goodbye",
+                    "Goodbye",
+                    "Goodbye",
+                    "Goodbye"
+                ],
+                "run_time": 6.50,
+                "spotify_url": "https://open.spotify.com/track/7GSuwtCVYSNw5EWgshurhm",
+                "album_id": 3
+            },
+            {
+                "id": 15,
+                "name": "Like a Drug",
+                "lyrics": [
+                    "Since you're gone, I sat at home",
+                    "Wonder why no I'll never be free",
+                    "But the thought of you",
+                    "Going with another guy",
+                    "No, it could never be me",
+                    "You took a ring and pawned our love away",
+                    "What can I say, I am left behind",
+                    "So I take a drink, another cigarette",
+                    "I can't forget that you once were mine",
+                    "What can I say?",
+                    "I guess it wasn't meant to be, no",
+                    "But now you're gone",
+                    "It's us, your love is like a drug",
+                    "It's been so long",
+                    "Your folks have bet you're gone",
+                    "But I know that you're alive inside",
+                    "So I hope and pray you won't throw this love away",
+                    "I just wish that you still were mine",
+                    "What can I say?",
+                    "I guess it wasn't meant to be",
+                    "But now you're gone",
+                    "It's just, your love is like a drug"
+                ],
+                "run_time": 3.15,
+                "spotify_url": "https://open.spotify.com/track/2SHb82T8TnXev9OXkQY2R1",
+                "album_id": 3
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "",
+        "release_date": ",
+        "run_time": ,
+        "spotify_url": "",
+        "songs": [
+            {
+                "id": 1,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 2,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 3,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 4,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 5,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id": 2
+            },
+            {
+                "id": 6,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 7,
+                "name": "",
+                "lyrics": [
+
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 8,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 9,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 10,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 11,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 12,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 13,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 14,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "",
+        "release_date": ",
+        "run_time": ,
+        "spotify_url": "",
+        "songs": [
+            {
+                "id": 1,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 2,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 3,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 4,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 5,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id": 2
+            },
+            {
+                "id": 6,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 7,
+                "name": "",
+                "lyrics": [
+
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 8,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 9,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 10,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 11,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 12,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 13,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 14,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "",
+        "release_date": ",
+        "run_time": ,
+        "spotify_url": "",
+        "songs": [
+            {
+                "id": 1,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 2,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 3,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 4,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 5,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id": 2
+            },
+            {
+                "id": 6,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 7,
+                "name": "",
+                "lyrics": [
+
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 8,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 9,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 10,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 11,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 12,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 13,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 14,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "",
+        "release_date": ",
+        "run_time": ,
+        "spotify_url": "",
+        "songs": [
+            {
+                "id": 1,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 2,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 3,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 4,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 5,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id": 2
+            },
+            {
+                "id": 6,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 7,
+                "name": "",
+                "lyrics": [
+
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 8,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 9,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 10,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 11,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 12,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 13,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 14,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "",
+        "release_date": ",
+        "run_time": ,
+        "spotify_url": "",
+        "songs": [
+            {
+                "id": 1,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 2,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 3,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 4,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 5,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id": 2
+            },
+            {
+                "id": 6,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 7,
+                "name": "",
+                "lyrics": [
+
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 8,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 9,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 10,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 11,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 12,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 13,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 14,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "",
+        "release_date": ",
+        "run_time": ,
+        "spotify_url": "",
+        "songs": [
+            {
+                "id": 1,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 2,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 3,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 4,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 5,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id": 2
+            },
+            {
+                "id": 6,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 7,
+                "name": "",
+                "lyrics": [
+
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 8,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 9,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 10,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 11,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 12,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 13,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 14,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "",
+        "release_date": ",
+        "run_time": ,
+        "spotify_url": "",
+        "songs": [
+            {
+                "id": 1,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 2,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 3,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 4,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 5,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id": 2
+            },
+            {
+                "id": 6,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 7,
+                "name": "",
+                "lyrics": [
+
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 8,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 9,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 10,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 11,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 12,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 13,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 14,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "",
+        "release_date": ",
+        "run_time": ,
+        "spotify_url": "",
+        "songs": [
+            {
+                "id": 1,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 2,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 3,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 4,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 5,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id": 2
+            },
+            {
+                "id": 6,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 7,
+                "name": "",
+                "lyrics": [
+
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 8,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 9,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 10,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 11,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 12,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 13,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
+            },
+            {
+                "id": 14,
+                "name": "",
+                "lyrics": [
+                ],
+                "run_time":
+                "spotify_url": "",
+                "album_id":
             }
         ]
     },
