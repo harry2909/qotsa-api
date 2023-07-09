@@ -429,7 +429,395 @@
         ]
     },
     {
-        "id": 7,
+        "id": 2,
+        "name": "Rated R",
+        "release_date": "06/06/2000",
+        "run_time": 42.14,
+        "spotify_url": "https://open.spotify.com/album/05tJhGl52X4zGe0ySlcBk6",
+        "songs": [
+            {
+                "id": 1,
+                "name": "Feel Good Hit Of The Summer",
+                "lyrics": [
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
+                    "Oh, Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
+                    "Cocaine, cocaine",
+                    "Cocaine, oh",
+                    "Cocaine",
+                    "Oh",
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
+                    "Oh, Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
+                    "Cocaine",
+                    "Cocaine",
+                    "Cocaine",
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol (Cocaine!)",
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol (Cocaine!)",
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol (Cocaine!)",
+                    "Oh, Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol (Cocaine!)",
+                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol (Cocaine!)",
+                    "Oh, Nicotine, Valium, Vicodin, marijuana, cocaine"
+                ],
+                "run_time": 2.43,
+                "spotify_url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI",
+                "album_id": 2
+            },
+            {
+                "id": 2,
+                "name": "The Lost Art Of Keeping A Secret",
+                "lyrics": [
+                    "Well I've got a secret, I cannot say",
+                    "Blame modern movement to give it away",
+                    "You've got something, that I understand",
+                    "Hold it in tightly, call on command",
+                    "Leap of faith, do you doubt?",
+                    "Cut you in, I just cut you out",
+                    "Whatever you do",
+                    "Don't tell anyone",
+                    "Whatever you do",
+                    "Don't tell anyone",
+                    "Look for reflections in your face",
+                    "Canine devotion, time can't erase",
+                    "Out on the corner or locked in your room",
+                    "I never believe them and I never assume",
+                    "Stuck in belief, there is a lie",
+                    "Promise is promise, an eye for an eye",
+                    "We've got something to reveal",
+                    "No one can know how we feel",
+                    "Whatever you do",
+                    "Don't tell anyone",
+                    "Whatever you do",
+                    "Don't tell anyone",
+                    "Whatever you do",
+                    "Don't tell anyone",
+                    "Whatever you do",
+                    "Don't tell",
+                    "I think you already know",
+                    "How far I'd go not to say",
+                    "You know the art isn't gone",
+                    "And I'm taking our song to the grave",
+                    "Whatever you do",
+                    "Don't tell anyone",
+                    "Whatever you do",
+                    "Don't tell anyone",
+                    "Whatever you do",
+                    "Don't tell anyone",
+                    "Whatever you do",
+                    "Don't tell anyone"
+                ],
+                "run_time": 3.36,
+                "spotify_url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh",
+                "album_id": 2
+            },
+            {
+                "id": 3,
+                "name": "Leg Of Lamb",
+                "lyrics": [
+                    "You're a head case with a smile",
+                    "Can't stop to make up your mind",
+                    "Education is so lame (It's so lame)",
+                    "When you bitch and you moan",
+                    "You're a loose girl, I'm a guy (Hey)",
+                    "You're a truth freak with a lie",
+                    "The situation is so strange",
+                    "It's a TV show (Click)",
+                    "In a hotel on the phone",
+                    "You're gonna leave me, I should've known (Should've known)",
+                    "And I was thinking, it's so sad",
+                    "I didn't want you to go, oh",
+                    "You want to follow the laws of man? (Yes sir)",
+                    "Bloody apron, leg of lamb",
+                    "It's so hard to win",
+                    "When there's so much to lose",
+                    "Infiltrate the walls that are caving in",
+                    "It ain't a bad thing",
+                    "This ain't reality",
+                    "Infiltrate the walls that are caving in",
+                    "It ain't a bad thing",
+                    "Think of it as natural (Ah)",
+                    "Second Avenue, raising Cain",
+                    "I'm a sinner, ring my bell (Ring mine)",
+                    "I'll tell you what, I'd get up",
+                    "If I knew I had fell"
+                ],
+                "run_time": 2.48,
+                "spotify_url": "https://open.spotify.com/track/5e9zmHHKeRkOmo0qEzyBWs",
+                "album_id": 2
+            },
+            {
+                "id": 4,
+                "name": "Auto Pilot",
+                "lyrics": [
+                    "Saw you lyin' there on the marble slab",
+                    "The best trip that I've ever had",
+                    "High up in a jet plane, pass it around",
+                    "My drink's on empty, need another round",
+                    "I wanna fly, I wanna ride with you",
+                    "Is this the best that you can do?",
+                    "I wanna fly, wanna ride with you",
+                    "High up in a jet plane with you",
+                    "When we arrive in the middle of nowhere",
+                    "Don't act like you know I been here so many times",
+                    "I never seen you before",
+                    "But now that I have, I don't wanna see you no more",
+                    "High up in a jet plane with you",
+                    "High up in a jet plane with you",
+                    "I wanna fly, I wanna ride with you",
+                    "Is this the best that you can do?",
+                    "I wanna fly, I wanna ride with you",
+                    "High up in a jet plane with you",
+                    "Ah-ah, auto pilot, no control",
+                    "Ah-ah, ah",
+                    "Ah-ah, auto pilot, no control",
+                    "Ah-ah, ah",
+                    "High up in a jet plane with you",
+                    "High up in a jet plane with you",
+                    "I wanna fly, I wanna ride with you",
+                    "Is this the best that you can do?",
+                    "I wanna fly, wanna ride with you",
+                    "High up in a jet plane with you",
+                    "I wanna fly, I wanna ride with you (High up in a jet plane with you)",
+                    "Is this the best that you can do? (High up in a jet plane with you)",
+                    "I wanna fly, I wanna ride with you",
+                    "High up in a jet plane with you",
+                    "I wanna fly, wanna ride with you (High up in a jet plane with you)",
+                    "I wanna fly, wanna ride with you (High up in a jet plane with you)"
+                ],
+                "run_time": 4.01,
+                "spotify_url": "https://open.spotify.com/track/3hWu4Z5IkREyWNT4zuuXM5",
+                "album_id": 2
+            },
+            {
+                "id": 5,
+                "name": "Better Living through Chemistry",
+                "lyrics": [
+                    "The blue pill opens your eyes, is there a better way?",
+                    "A new religion's prescribed to those without the faith",
+                    "A hero holding a knife, and blood is not enough",
+                    "Is it too late to go back? Is it too late to go?",
+                    "There's no one here (There's no one here)",
+                    "And people everywhere (People everywhere)",
+                    "You're on your own",
+                    "Ah, ah, ah, ah",
+                    "Ah, ah, ah, ah",
+                    "Ah, ah, ah, ah",
+                    "Ah, ah, ah, ah",
+                    "Ah, ah, ah, ah",
+                    "Ah, ah, ah, ah",
+                    "Ah, ah, ah, ah",
+                    "Ah, ah, ah, ah",
+                    "Ah, ah, ah, ah",
+                    "Ah, ah, ah, ah",
+                    "Let's see if I'm hearing this right, you suggest I should take",
+                    "A never-ending supply to carry out the dead",
+                    "Your idols burn in the fire, the mob comes crawlin' out",
+                    "I'm reclaiming my mind, destroying everyone",
+                    "There's no one here (There's no one here)",
+                    "And people everywhere (People everywhere)",
+                    "You're all alone",
+                    "Oh, oh, oh, oh",
+                    "Oh"
+                ],
+                "run_time": 5.49,
+                "spotify_url": "https://open.spotify.com/track/7GYqzwtxd7gqggYgEOpnAu",
+                "album_id": 2
+            },
+            {
+                "id": 6,
+                "name": "Monsters in the Parasol",
+                "lyrics": [
+                    "The walls are closing in again, oh well",
+                    "The walls are closing in again, oh well",
+                    "I've seen some things I thought I'd never saw",
+                    "Covered in hair (Hair)",
+                    "Paul's dad is warped and bubbling, oh well",
+                    "Paul's dad is warped and bubbling, oh well",
+                    "And my mind is out here on another wave",
+                    "Covered in hair (Hair)",
+                    "She won't grow, she won't grow",
+                    "She won't grow, she won't grow",
+                    "She won't grow, she won't grow",
+                    "She won't grow",
+                    "You've got a monster (Distress) in your parasol (Why, yes)",
+                    "You've got a monster (Divorce) in your parasol (Of course)",
+                    "You've got a monster (Displeasure) in your parasol (My treasure)",
+                    "You've got a monster (Your pain) in your parasol (Drives me insane)",
+                    "Paul's sister is an alien, oh well",
+                    "Paul's sister is an alien, oh well",
+                    "I'd seen some things I thought I'd never saw",
+                    "Covered in hair (Hair)",
+                    "She won't grow, she won't grow",
+                    "She won't grow, she won't grow",
+                    "She won't grow, she won't grow",
+                    "She won't grow",
+                    "You've got a monster (Distress) in your parasol (Why, yes)",
+                    "You've got a monster (Divorce) in your parasol (Of course)",
+                    "You've got a monster (Displeasure) in your parasol (My treasure)",
+                    "You've got a hole (Your pain) in you I never saw (Drives me insane)",
+                    "In your parasol, in your parasol (Insane, insane, insane, insane)"
+                ],
+                "run_time": 3.27,
+                "spotify_url": "https://open.spotify.com/track/0a2sCOv9nkWAdkdM6iMcvY",
+                "album_id": 2
+            },
+            {
+                "id": 7,
+                "name": "Quick and to the Pointless",
+                "lyrics": [
+                    "I don't even know what I'm doin' here",
+                    "Yeah, yeah, yeah, yeah!",
+                    "Oh!",
+                    "A little girl, walkin' down the street",
+                    "Godverdomme, you gotta be with me",
+                    "Well I know, you know",
+                    "Everybody, everyone, let's go!",
+                    "Oh baby, baby, you're so sweet!",
+                    "Ah! Ah! Woo!",
+                    "Het leven is hard, de mensen worden bang",
+                    "I'm so old, you're so young",
+                    "I know, you know",
+                    "Everybody, everyone, let's go!",
+                    "Oh baby, baby, you're so sweet!",
+                    "Goddamn! Ah! Ah! Woo!",
+                    "Yeah, yeah, yeah, yeah!",
+                    "Yeah, yeah, yeah, yeah!",
+                    "I Wish",
+                    "Skee-Lo",
+                    "Ik denk van ja, maar nee",
+                    "Little girl, listen to what I say",
+                    "You know, I know",
+                    "Everybody, everyone, let's go!",
+                    "Oh baby, baby, you're so sweet! Woo!",
+                    "Ah, ah, baby, baby, you're so sweet",
+                    "Goddamn! Ah! Ah! Woo!"
+                ],
+                "run_time": 1.42,
+                "spotify_url": "https://open.spotify.com/track/7yauS2RTZt41o1dvcmFiJz",
+                "album_id": 2
+            },
+            {
+                "id": 8,
+                "name": "In the Fade / Feel Good Hit of the Summer (Reprise)",
+                "lyrics": [
+                    "Cracks in the ceiling, crooked pictures in the hall",
+                    "Countin' and breathin', I'm leavin' here tomorrow",
+                    "They don't know, I never do you any good",
+                    "Laughin' is easy, I would if I could",
+                    "Ain't gonna worry",
+                    "Just live 'til you die, I wanna drown",
+                    "With nowhere to fall into the arms of someone who",
+                    "There's nothin' to save and I know",
+                    "You live 'til you die",
+                    "(Live 'til you die) I know",
+                    "(Live 'til you die) I know",
+                    "(Live 'til you die) I know",
+                    "(Live 'til you die)",
+                    "Losin' a feelin' that I couldn't give away",
+                    "Countin' and breathin', disappearin' in the fade",
+                    "They don't know, I'd never do you any good",
+                    "Stoppin' and stayin', I would if I could",
+                    "Ain't gonna worry",
+                    "Just live 'til you die, I wanna drown",
+                    "With nowhere to fall into the arms of someone who",
+                    "There's nothin' to save and I know",
+                    "You live 'til you die",
+                    "(Live 'til you die) I know",
+                    "(Live 'til you die) I know",
+                    "(Live 'til you die) I know",
+                    "(Live 'til you die)"
+                ],
+                "run_time": 3.50,
+                "spotify_url": "https://open.spotify.com/track/4KGdFDc2InqRHYCZt4svYc",
+                "album_id": 2
+            },
+            {
+                "id": 9,
+                "name": "Tension Head",
+                "lyrics": [
+                    "Every day I wake up feelin' this way",
+                    "I take it downtown!",
+                    "With all the action goin' down",
+                    "I strike a match! Strike a match, cook it up!",
+                    ",(Lowlife)",
+                    "(Lowlife) I'm feeling so sick!",
+                    ",(Lowlife) I feel so fucking sick!",
+                    ",(Lowlife)",
+                    "On the bathroom floor",
+                    "Gotta get out and get right",
+                    "Hustlin' little girls",
+                    "Cheating little boys, yeah!",
+                    "Gotta get out, gotta get out and get right!",
+                    "Gotta get out, I gotta get out no more",
+                    "No more! No more!",
+                    "My eternal fire!",
+                    ",(Lowlife)",
+                    ",(Lowlife) I'm feelin' so sick!",
+                    ",(Lowlife) On the bathroom floor!",
+                    ",(Lowlife) Well I'm feelin' so sick!",
+                    "No more",
+                    "Yeah!",
+                    ",(High life, low life)",
+                    ",(High life, low life)",
+                    ",(High life, low life)",
+                    ",(High life)",
+                    "I'm feelin' so sick!",
+                    ",(Lowlife) I feel so sick!",
+                    ",(Lowlife) No, no more!"
+                ],
+                "run_time": 2.52,
+                "spotify_url": "https://open.spotify.com/track/2PZhHYtlfVED3oU4qcTejV",
+                "album_id": 2
+            },
+            {
+                "id": 10,
+                "name": "Lightning Song",
+                "lyrics": [
+                ],
+                "run_time": 2.07,
+                "spotify_url": "https://open.spotify.com/track/5WEfgjYj09nzLDpg95lwaE",
+                "album_id": 2
+            },
+            {
+                "id": 11,
+                "name": "I Think I Lost My Headache",
+                "lyrics": [
+                    "You know why",
+                    "They called and just let it ring",
+                    "No reply",
+                    "The door was open, I swear",
+                    "Ain't no use in pickin' up",
+                    "You know why",
+                    "It's all my head, I know",
+                    "So they tell me so",
+                    "Until my head explodes",
+                    "Into my head it goes",
+                    "Tastes so good",
+                    "Oh, but I knew it would",
+                    "Tastes so good",
+                    "Burn like a match house",
+                    "Medicate just to make you soft",
+                    "Love is blind",
+                    "Catch and release me",
+                    "What the hell were they thinkin' of?",
+                    "You know why",
+                    "It's all my head, I know",
+                    "So they tell me so",
+                    "Until my head explodes",
+                    "Into my head it goes"
+                ],
+                "run_time": 8.40,
+                "spotify_url": "https://open.spotify.com/track/46peDwkQpqnDBLFEAdGMMK",
+                "album_id": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
         "name": "Songs For The Deaf",
         "release_date": "27-08-2002",
         "run_time": 65,
@@ -477,7 +865,7 @@
                 ],
                 "run_time": 3.12,
                 "spotify_url": "https://open.spotify.com/track/48OJGqiTSwiUmDwLpAlGZ6",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 2,
@@ -523,7 +911,7 @@
                 ],
                 "run_time": 4.38,
                 "spotify_url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 3,
@@ -559,7 +947,7 @@
                 ],
                 "run_time": 3.18,
                 "spotify_url": "https://open.spotify.com/track/0UEMTz9APWfoJHdlXDeIzm",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 4,
@@ -605,7 +993,7 @@
                 ],
                 "run_time": 5.52,
                 "spotify_url": "https://open.spotify.com/track/37gG4GPeTRPKKdXYx3zTRCM",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 5,
@@ -670,7 +1058,7 @@
                 ],
                 "run_time": 6.15,
                 "spotify_url": "https://open.spotify.com/track/1OhtTc59KSDzaNzThkdYhF",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 6,
@@ -697,7 +1085,7 @@
                 ],
                 "run_time": 1.19,
                 "spotify_url": "https://open.spotify.com/track/0gqjrg3hlZVBx1KOoMRdU0",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 7,
@@ -737,7 +1125,7 @@
                 ],
                 "run_time": 3.06,
                 "spotify_url": "https://open.spotify.com/track/0kvCsawo2Y5m7xvksC1IK1",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 8,
@@ -773,7 +1161,7 @@
                 ],
                 "run_time": 3.07,
                 "spotify_url": "https://open.spotify.com/track/0wzRcekWyVCSyPtlPOeJau",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 9,
@@ -822,7 +1210,7 @@
                 ],
                 "run_time": 2.50,
                 "spotify_url": "https://open.spotify.com/track/70cpuGFNENOHuqNhtLVFJY",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 10,
@@ -894,7 +1282,7 @@
                 ],
                 "run_time": 4.04,
                 "spotify_url": "https://open.spotify.com/track/5o3KGmXAREYplnzG421nsE",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 11,
@@ -935,7 +1323,7 @@
                 ],
                 "run_time": 6.04,
                 "spotify_url": "https://open.spotify.com/track/3zIrLEU2Q7UuKJb4hODlFD",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 12,
@@ -983,7 +1371,7 @@
                 ],
                 "run_time": 3.16,
                 "spotify_url": "https://open.spotify.com/track/1gbrXEnu5AGijhPHFXPOku",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 13,
@@ -1037,7 +1425,7 @@
                 ],
                 "run_time": 6.12,
                 "spotify_url": "https://open.spotify.com/track/7DsVUde9c0lVje0FtuIYoY",
-                "album_id": 2
+                "album_id": 3
             },
             {
                 "id": 14,
@@ -1079,12 +1467,12 @@
                 ],
                 "run_time": 5.37,
                 "spotify_url": "https://open.spotify.com/track/24R9lWmmNbyemIrDcN5za2",
-                "album_id": 2
+                "album_id": 3
             }
         ]
     },
     {
-        "id": 2,
+        "id": 4,
         "name": "Lullabies to Paralyze",
         "release_date": "21-03-2005",
         "run_time": 66,
@@ -1111,7 +1499,7 @@
                 ],
                 "run_time": 1.22,
                 "spotify_url": "https://open.spotify.com/track/1xisM5en8um4cmnDwCg6rM",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 2,
@@ -1143,7 +1531,7 @@
                 ],
                 "run_time": 1.54,
                 "spotify_url": "https://open.spotify.com/track/0r5fNYdvlZnn8AXdwvIt0e",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 3,
@@ -1174,7 +1562,7 @@
                 ],
                 "run_time": 4.14,
                 "spotify_url": "https://open.spotify.com/track/3ZfgaRA2HfIQSkpfJQT4qi",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 4,
@@ -1221,7 +1609,7 @@
                 ],
                 "run_time": 4.13,
                 "spotify_url": "https://open.spotify.com/track/68rbW0UQA8glH74VMRgbKb",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 5,
@@ -1272,7 +1660,7 @@
                 ],
                 "run_time": 3.35,
                 "spotify_url": "https://open.spotify.com/track/5mDA2REjyAxzEJZAFtiBSI",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 6,
@@ -1313,7 +1701,7 @@
                 ],
                 "run_time": 4.01,
                 "spotify_url": "https://open.spotify.com/track/5cABednUSqT0uMbl1s2nN6",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 7,
@@ -1343,7 +1731,7 @@
                 ],
                 "run_time": 2.54,
                 "spotify_url": "https://open.spotify.com/track/6Td8HRLhdV39kKdOQpfQum",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 8,
@@ -1383,7 +1771,7 @@
                 ],
                 "run_time": 4.48,
                 "spotify_url": "https://open.spotify.com/track/5GayzAdj3qbFpO0otdLLvc",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 9,
@@ -1420,7 +1808,7 @@
                 ],
                 "run_time": 7.15,
                 "spotify_url": "https://open.spotify.com/track/5k4HVmPOE3GusKQO8IcH7s",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 10,
@@ -1454,7 +1842,7 @@
                 ],
                 "run_time": 6.37,
                 "spotify_url": "https://open.spotify.com/track/56lC3RvLQqqnPIjlFfeoLS",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 11,
@@ -1492,7 +1880,7 @@
                 ],
                 "run_time": 3.42,
                 "spotify_url": "https://open.spotify.com/track/30ciTqpMtPHKLH9ffFICZO",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 12,
@@ -1535,7 +1923,7 @@
                 ],
                 "run_time": 3.02,
                 "spotify_url": "https://open.spotify.com/track/5r7kXCHXuN1hZ6cK55U4j0",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 13,
@@ -1587,7 +1975,7 @@
                 ],
                 "run_time": 4.56,
                 "spotify_url": "https://open.spotify.com/track/7DVxvGuoQbti54HrKHYXKI",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 14,
@@ -1629,7 +2017,7 @@
                 ],
                 "run_time": 6.50,
                 "spotify_url": "https://open.spotify.com/track/7GSuwtCVYSNw5EWgshurhm",
-                "album_id": 3
+                "album_id": 4
             },
             {
                 "id": 15,
@@ -1660,7 +2048,7 @@
                 ],
                 "run_time": 3.15,
                 "spotify_url": "https://open.spotify.com/track/2SHb82T8TnXev9OXkQY2R1",
-                "album_id": 3
+                "album_id": 4
             }
         ]
     },
@@ -2752,392 +3140,4 @@
             }
         ]
     },
-    {
-        "id": 7,
-        "name": "Rated R",
-        "release_date": "1998-09-22",
-        "run_time": 42.14,
-        "spotify_url": "https://open.spotify.com/album/05tJhGl52X4zGe0ySlcBk6",
-        "songs": [
-            {
-                "id": 1,
-                "name": "Feel Good Hit Of The Summer",
-                "lyrics": [
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
-                    "Oh, Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
-                    "Cocaine, cocaine",
-                    "Cocaine, oh",
-                    "Cocaine",
-                    "Oh",
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
-                    "Oh, Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol",
-                    "Cocaine",
-                    "Cocaine",
-                    "Cocaine",
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol (Cocaine!)",
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol (Cocaine!)",
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol (Cocaine!)",
-                    "Oh, Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol (Cocaine!)",
-                    "Nicotine, Valium, Vicodin, marijuana, ecstasy and alcohol (Cocaine!)",
-                    "Oh, Nicotine, Valium, Vicodin, marijuana, cocaine"
-                ],
-                "run_time": 2.43,
-                "spotify_url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI",
-                "album_id": 7
-            },
-            {
-                "id": 2,
-                "name": "The Lost Art Of Keeping A Secret",
-                "lyrics": [
-                    "Well I've got a secret, I cannot say",
-                    "Blame modern movement to give it away",
-                    "You've got something, that I understand",
-                    "Hold it in tightly, call on command",
-                    "Leap of faith, do you doubt?",
-                    "Cut you in, I just cut you out",
-                    "Whatever you do",
-                    "Don't tell anyone",
-                    "Whatever you do",
-                    "Don't tell anyone",
-                    "Look for reflections in your face",
-                    "Canine devotion, time can't erase",
-                    "Out on the corner or locked in your room",
-                    "I never believe them and I never assume",
-                    "Stuck in belief, there is a lie",
-                    "Promise is promise, an eye for an eye",
-                    "We've got something to reveal",
-                    "No one can know how we feel",
-                    "Whatever you do",
-                    "Don't tell anyone",
-                    "Whatever you do",
-                    "Don't tell anyone",
-                    "Whatever you do",
-                    "Don't tell anyone",
-                    "Whatever you do",
-                    "Don't tell",
-                    "I think you already know",
-                    "How far I'd go not to say",
-                    "You know the art isn't gone",
-                    "And I'm taking our song to the grave",
-                    "Whatever you do",
-                    "Don't tell anyone",
-                    "Whatever you do",
-                    "Don't tell anyone",
-                    "Whatever you do",
-                    "Don't tell anyone",
-                    "Whatever you do",
-                    "Don't tell anyone"
-                ],
-                "run_time": 3.36,
-                "spotify_url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh",
-                "album_id": 7
-            },
-            {
-                "id": 3,
-                "name": "Leg Of Lamb",
-                "lyrics": [
-                    "You're a head case with a smile",
-                    "Can't stop to make up your mind",
-                    "Education is so lame (It's so lame)",
-                    "When you bitch and you moan",
-                    "You're a loose girl, I'm a guy (Hey)",
-                    "You're a truth freak with a lie",
-                    "The situation is so strange",
-                    "It's a TV show (Click)",
-                    "In a hotel on the phone",
-                    "You're gonna leave me, I should've known (Should've known)",
-                    "And I was thinking, it's so sad",
-                    "I didn't want you to go, oh",
-                    "You want to follow the laws of man? (Yes sir)",
-                    "Bloody apron, leg of lamb",
-                    "It's so hard to win",
-                    "When there's so much to lose",
-                    "Infiltrate the walls that are caving in",
-                    "It ain't a bad thing",
-                    "This ain't reality",
-                    "Infiltrate the walls that are caving in",
-                    "It ain't a bad thing",
-                    "Think of it as natural (Ah)",
-                    "Second Avenue, raising Cain",
-                    "I'm a sinner, ring my bell (Ring mine)",
-                    "I'll tell you what, I'd get up",
-                    "If I knew I had fell"
-                ],
-                "run_time": 2.48,
-                "spotify_url": "https://open.spotify.com/track/5e9zmHHKeRkOmo0qEzyBWs",
-                "album_id": 7
-            },
-            {
-                "id": 4,
-                "name": "Auto Pilot",
-                "lyrics": [
-                    "Saw you lyin' there on the marble slab",
-                    "The best trip that I've ever had",
-                    "High up in a jet plane, pass it around",
-                    "My drink's on empty, need another round",
-                    "I wanna fly, I wanna ride with you",
-                    "Is this the best that you can do?",
-                    "I wanna fly, wanna ride with you",
-                    "High up in a jet plane with you",
-                    "When we arrive in the middle of nowhere",
-                    "Don't act like you know I been here so many times",
-                    "I never seen you before",
-                    "But now that I have, I don't wanna see you no more",
-                    "High up in a jet plane with you",
-                    "High up in a jet plane with you",
-                    "I wanna fly, I wanna ride with you",
-                    "Is this the best that you can do?",
-                    "I wanna fly, I wanna ride with you",
-                    "High up in a jet plane with you",
-                    "Ah-ah, auto pilot, no control",
-                    "Ah-ah, ah",
-                    "Ah-ah, auto pilot, no control",
-                    "Ah-ah, ah",
-                    "High up in a jet plane with you",
-                    "High up in a jet plane with you",
-                    "I wanna fly, I wanna ride with you",
-                    "Is this the best that you can do?",
-                    "I wanna fly, wanna ride with you",
-                    "High up in a jet plane with you",
-                    "I wanna fly, I wanna ride with you (High up in a jet plane with you)",
-                    "Is this the best that you can do? (High up in a jet plane with you)",
-                    "I wanna fly, I wanna ride with you",
-                    "High up in a jet plane with you",
-                    "I wanna fly, wanna ride with you (High up in a jet plane with you)",
-                    "I wanna fly, wanna ride with you (High up in a jet plane with you)"
-                ],
-                "run_time": 4.01,
-                "spotify_url": "https://open.spotify.com/track/3hWu4Z5IkREyWNT4zuuXM5",
-                "album_id": 7
-            },
-            {
-                "id": 5,
-                "name": "Better Living through Chemistry",
-                "lyrics": [
-                    "The blue pill opens your eyes, is there a better way?",
-                    "A new religion's prescribed to those without the faith",
-                    "A hero holding a knife, and blood is not enough",
-                    "Is it too late to go back? Is it too late to go?",
-                    "There's no one here (There's no one here)",
-                    "And people everywhere (People everywhere)",
-                    "You're on your own",
-                    "Ah, ah, ah, ah",
-                    "Ah, ah, ah, ah",
-                    "Ah, ah, ah, ah",
-                    "Ah, ah, ah, ah",
-                    "Ah, ah, ah, ah",
-                    "Ah, ah, ah, ah",
-                    "Ah, ah, ah, ah",
-                    "Ah, ah, ah, ah",
-                    "Ah, ah, ah, ah",
-                    "Ah, ah, ah, ah",
-                    "Let's see if I'm hearing this right, you suggest I should take",
-                    "A never-ending supply to carry out the dead",
-                    "Your idols burn in the fire, the mob comes crawlin' out",
-                    "I'm reclaiming my mind, destroying everyone",
-                    "There's no one here (There's no one here)",
-                    "And people everywhere (People everywhere)",
-                    "You're all alone",
-                    "Oh, oh, oh, oh",
-                    "Oh"
-                ],
-                "run_time": 5.49,
-                "spotify_url": "https://open.spotify.com/track/7GYqzwtxd7gqggYgEOpnAu",
-                "album_id": 7
-            },
-            {
-                "id": 6,
-                "name": "Monsters in the Parasol",
-                "lyrics": [
-                    "The walls are closing in again, oh well",
-                    "The walls are closing in again, oh well",
-                    "I've seen some things I thought I'd never saw",
-                    "Covered in hair (Hair)",
-                    "Paul's dad is warped and bubbling, oh well",
-                    "Paul's dad is warped and bubbling, oh well",
-                    "And my mind is out here on another wave",
-                    "Covered in hair (Hair)",
-                    "She won't grow, she won't grow",
-                    "She won't grow, she won't grow",
-                    "She won't grow, she won't grow",
-                    "She won't grow",
-                    "You've got a monster (Distress) in your parasol (Why, yes)",
-                    "You've got a monster (Divorce) in your parasol (Of course)",
-                    "You've got a monster (Displeasure) in your parasol (My treasure)",
-                    "You've got a monster (Your pain) in your parasol (Drives me insane)",
-                    "Paul's sister is an alien, oh well",
-                    "Paul's sister is an alien, oh well",
-                    "I'd seen some things I thought I'd never saw",
-                    "Covered in hair (Hair)",
-                    "She won't grow, she won't grow",
-                    "She won't grow, she won't grow",
-                    "She won't grow, she won't grow",
-                    "She won't grow",
-                    "You've got a monster (Distress) in your parasol (Why, yes)",
-                    "You've got a monster (Divorce) in your parasol (Of course)",
-                    "You've got a monster (Displeasure) in your parasol (My treasure)",
-                    "You've got a hole (Your pain) in you I never saw (Drives me insane)",
-                    "In your parasol, in your parasol (Insane, insane, insane, insane)"
-                ],
-                "run_time": 3.27,
-                "spotify_url": "https://open.spotify.com/track/0a2sCOv9nkWAdkdM6iMcvY",
-                "album_id": 7
-            },
-            {
-                "id": 7,
-                "name": "Quick and to the Pointless",
-                "lyrics": [
-                    "I don't even know what I'm doin' here",
-                    "Yeah, yeah, yeah, yeah!",
-                    "Oh!",
-                    "A little girl, walkin' down the street",
-                    "Godverdomme, you gotta be with me",
-                    "Well I know, you know",
-                    "Everybody, everyone, let's go!",
-                    "Oh baby, baby, you're so sweet!",
-                    "Ah! Ah! Woo!",
-                    "Het leven is hard, de mensen worden bang",
-                    "I'm so old, you're so young",
-                    "I know, you know",
-                    "Everybody, everyone, let's go!",
-                    "Oh baby, baby, you're so sweet!",
-                    "Goddamn! Ah! Ah! Woo!",
-                    "Yeah, yeah, yeah, yeah!",
-                    "Yeah, yeah, yeah, yeah!",
-                    "I Wish",
-                    "Skee-Lo",
-                    "Ik denk van ja, maar nee",
-                    "Little girl, listen to what I say",
-                    "You know, I know",
-                    "Everybody, everyone, let's go!",
-                    "Oh baby, baby, you're so sweet! Woo!",
-                    "Ah, ah, baby, baby, you're so sweet",
-                    "Goddamn! Ah! Ah! Woo!"
-                ],
-                "run_time": 1.42,
-                "spotify_url": "https://open.spotify.com/track/7yauS2RTZt41o1dvcmFiJz",
-                "album_id": 7
-            },
-            {
-                "id": 8,
-                "name": "In the Fade / Feel Good Hit of the Summer (Reprise)",
-                "lyrics": [
-                    "Cracks in the ceiling, crooked pictures in the hall",
-                    "Countin' and breathin', I'm leavin' here tomorrow",
-                    "They don't know, I never do you any good",
-                    "Laughin' is easy, I would if I could",
-                    "Ain't gonna worry",
-                    "Just live 'til you die, I wanna drown",
-                    "With nowhere to fall into the arms of someone who",
-                    "There's nothin' to save and I know",
-                    "You live 'til you die",
-                    "(Live 'til you die) I know",
-                    "(Live 'til you die) I know",
-                    "(Live 'til you die) I know",
-                    "(Live 'til you die)",
-                    "Losin' a feelin' that I couldn't give away",
-                    "Countin' and breathin', disappearin' in the fade",
-                    "They don't know, I'd never do you any good",
-                    "Stoppin' and stayin', I would if I could",
-                    "Ain't gonna worry",
-                    "Just live 'til you die, I wanna drown",
-                    "With nowhere to fall into the arms of someone who",
-                    "There's nothin' to save and I know",
-                    "You live 'til you die",
-                    "(Live 'til you die) I know",
-                    "(Live 'til you die) I know",
-                    "(Live 'til you die) I know",
-                    "(Live 'til you die)"
-                ],
-                "run_time": 3.50,
-                "spotify_url": "https://open.spotify.com/track/4KGdFDc2InqRHYCZt4svYc",
-                "album_id": 7
-            },
-            {
-                "id": 9,
-                "name": "Tension Head",
-                "lyrics": [
-                    "Every day I wake up feelin' this way",
-                    "I take it downtown!",
-                    "With all the action goin' down",
-                    "I strike a match! Strike a match, cook it up!",
-                    ",(Lowlife)",
-                    "(Lowlife) I'm feeling so sick!",
-                    ",(Lowlife) I feel so fucking sick!",
-                    ",(Lowlife)",
-                    "On the bathroom floor",
-                    "Gotta get out and get right",
-                    "Hustlin' little girls",
-                    "Cheating little boys, yeah!",
-                    "Gotta get out, gotta get out and get right!",
-                    "Gotta get out, I gotta get out no more",
-                    "No more! No more!",
-                    "My eternal fire!",
-                    ",(Lowlife)",
-                    ",(Lowlife) I'm feelin' so sick!",
-                    ",(Lowlife) On the bathroom floor!",
-                    ",(Lowlife) Well I'm feelin' so sick!",
-                    "No more",
-                    "Yeah!",
-                    ",(High life, low life)",
-                    ",(High life, low life)",
-                    ",(High life, low life)",
-                    ",(High life)",
-                    "I'm feelin' so sick!",
-                    ",(Lowlife) I feel so sick!",
-                    ",(Lowlife) No, no more!"
-                ],
-                "run_time": 2.52,
-                "spotify_url": "https://open.spotify.com/track/2PZhHYtlfVED3oU4qcTejV",
-                "album_id": 7
-            },
-            {
-                "id": 10,
-                "name": "Lightning Song",
-                "lyrics": [
-                ],
-                "run_time": 2.07,
-                "spotify_url": "https://open.spotify.com/track/5WEfgjYj09nzLDpg95lwaE",
-                "album_id": 7
-            },
-            {
-                "id": 11,
-                "name": "I Think I Lost My Headache",
-                "lyrics": [
-                    "You know why",
-                    "They called and just let it ring",
-                    "No reply",
-                    "The door was open, I swear",
-                    "Ain't no use in pickin' up",
-                    "You know why",
-                    "It's all my head, I know",
-                    "So they tell me so",
-                    "Until my head explodes",
-                    "Into my head it goes",
-                    "Tastes so good",
-                    "Oh, but I knew it would",
-                    "Tastes so good",
-                    "Burn like a match house",
-                    "Medicate just to make you soft",
-                    "Love is blind",
-                    "Catch and release me",
-                    "What the hell were they thinkin' of?",
-                    "You know why",
-                    "It's all my head, I know",
-                    "So they tell me so",
-                    "Until my head explodes",
-                    "Into my head it goes"
-                ],
-                "run_time": 8.40,
-                "spotify_url": "https://open.spotify.com/track/46peDwkQpqnDBLFEAdGMMK",
-                "album_id": 7
-            }
-        ]
-    }
 ]
