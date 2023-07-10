@@ -1,6 +1,5 @@
 <?php
 
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\APIController;
 
@@ -15,11 +14,13 @@ use App\Http\Controllers\APIController;
 |
 */
 
+const AUTH_MIDDLEWARE = 'auth:sanctum';
+
 // Return random lyrics
-Route::get('/lyrics', [APIController::class, 'returnRandomLyrics']);
+Route::middleware(AUTH_MIDDLEWARE)->get('/lyrics', [APIController::class, 'returnRandomLyrics']);
 
 // Return random song
-Route::get('/song', [APIController::class, 'returnRandomSong']);
+Route::middleware(AUTH_MIDDLEWARE)->get('/song', [APIController::class, 'returnRandomSong']);
 
 // Return random album
-Route::get('/album', [APIController::class, 'returnRandomAlbum']);
+Route::middleware(AUTH_MIDDLEWARE)->get('/album', [APIController::class, 'returnRandomAlbum']);
