@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Queens Of The Stone Age",
-        "release_date": "22-09-1998",
+        "release_date": "1998-09-22",
         "run_time": 40,
         "spotify_url": "https://open.spotify.com/album/6fXW2wtwjt1IbQloReHRAK",
         "songs": [
@@ -431,7 +431,7 @@
     {
         "id": 2,
         "name": "Rated R",
-        "release_date": "06/06/2000",
+        "release_date": "2000-06-06",
         "run_time": 42.14,
         "spotify_url": "https://open.spotify.com/album/05tJhGl52X4zGe0ySlcBk6",
         "songs": [
@@ -819,7 +819,7 @@
     {
         "id": 3,
         "name": "Songs For The Deaf",
-        "release_date": "27-08-2002",
+        "release_date": "2002-08-27",
         "run_time": 65,
         "spotify_url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY",
         "songs": [
@@ -1474,7 +1474,7 @@
     {
         "id": 4,
         "name": "Lullabies to Paralyze",
-        "release_date": "21-03-2005",
+        "release_date": "2005-03-21",
         "run_time": 66,
         "spotify_url": "https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8",
         "songs": [
@@ -2055,7 +2055,7 @@
     {
         "id": 5,
         "name": "Era Vulgaris",
-        "release_date": "12-06-2007",
+        "release_date": "2007-06-12",
         "run_time": 61,
         "spotify_url": "https://open.spotify.com/album/3wKSN4J9IZ1fhsaAqC2jB5",
         "songs": [
@@ -2334,7 +2334,6 @@
                     "Every masochist gets a turn",
                     "The sadistic twist you'll never learn",
                     "In battery acid, battery acid, hey"
-                    ",
                 ],
                 "run_time": 4.06,
                 "spotify_url": "https://open.spotify.com/track/5WfiUZDJP6xDwMVmCLU34o",
@@ -2629,7 +2628,7 @@
     {
         "id": 6,
         "name": "...Like Clockwork",
-        "release_date": "31-05-2013",
+        "release_date": "2013-05-31",
         "run_time": 46.3,
         "spotify_url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj",
         "songs": [
@@ -3065,7 +3064,7 @@
     {
         "id": 7,
         "name": "Villains",
-        "release_date": "25-08-2017",
+        "release_date": "2017-08-25",
         "run_time": 48.3,
         "spotify_url": "https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6",
         "songs": [
@@ -3584,7 +3583,7 @@
     {
         "id": 8,
         "name": "In Times New Roman...",
-        "release_date": "16-06-2023",
+        "release_date": "2023-06-16",
         "run_time": 47.40,
         "spotify_url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk",
         "songs": [
