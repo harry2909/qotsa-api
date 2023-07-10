@@ -22,7 +22,7 @@ class UserService implements UserServiceInterface
     public function saveUser(StoreUserRequest $request): RedirectResponse
     {
         $this->userRepository->saveUser($request);
-        return redirect()->route('/login');
+        return redirect()->route('login');
     }
 
     public function loginUser(LoginUserRequest $request): RedirectResponse

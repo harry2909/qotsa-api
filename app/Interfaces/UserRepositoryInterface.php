@@ -1,9 +1,9 @@
 <?php
 namespace App\Interfaces;
 
-use Illuminate\Http\Request;
+use App\Http\Requests\StoreUserRequest;
 
 interface UserRepositoryInterface
 {
-    public function saveUser(Request $request);
+    public function saveUser(StoreUserRequest $request);
 }
