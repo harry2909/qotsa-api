@@ -16,7 +16,7 @@ use App\Http\Controllers\APIController;
 */
 
 // Return random lyrics
-Route::get('/lyrics', [APIController::class, 'returnRandomLyric']);
+Route::get('/lyrics', [APIController::class, 'returnRandomLyrics']);
 
 // Return random song
 Route::get('/song', [APIController::class, 'returnRandomSong']);

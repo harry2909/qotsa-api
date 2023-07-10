@@ -15,6 +15,6 @@ class SongRepository implements SongInterface
     }
     public function getRandomSong()
     {
-        return $this->model->first();
+        return $this->model->inRandomOrder()->first();
     }
 }

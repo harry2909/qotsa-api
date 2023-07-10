@@ -15,6 +15,6 @@ class LyricsRepository implements LyricsInterface
     }
     public function getRandomLyrics()
     {
-        return $this->model->first();
+        return $this->model->inRandomOrder()->first();
     }
 }

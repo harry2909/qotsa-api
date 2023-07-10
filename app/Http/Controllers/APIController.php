@@ -27,7 +27,7 @@ class APIController extends Controller
         $this->songService = $songService;
     }
 
-    public function returnRandomLyric(): JsonResponse
+    public function returnRandomLyrics(): JsonResponse
     {
         $randomLyrics = $this->lyricsService->getRandomLyrics();
         return response()->json(new LyricsResource($randomLyrics));
