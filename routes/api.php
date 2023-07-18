@@ -14,13 +14,11 @@ use App\Http\Controllers\APIController;
 |
 */
 
-const AUTH_MIDDLEWARE = 'auth:sanctum';
-
 // Return random lyrics
-Route::middleware(AUTH_MIDDLEWARE)->get('/lyrics', [APIController::class, 'returnRandomLyrics']);
+Route::middleware('auth:sanctum')->get('/lyrics', [APIController::class, 'returnRandomLyrics']);
 
 // Return random song
-Route::middleware(AUTH_MIDDLEWARE)->get('/song', [APIController::class, 'returnRandomSong']);
+Route::middleware('auth:sanctum')->get('/song', [APIController::class, 'returnRandomSong']);
 
 // Return random album
-Route::middleware(AUTH_MIDDLEWARE)->get('/album', [APIController::class, 'returnRandomAlbum']);
+Route::middleware('auth:sanctum')->get('/album', [APIController::class, 'returnRandomAlbum']);
