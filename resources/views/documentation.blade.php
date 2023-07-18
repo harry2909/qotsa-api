@@ -3,6 +3,7 @@
     <div class="p-6 sm:p-12 md:p-24 h-screen">
         <div class="text-3xl mb-2">
             Introduction
+            <span id="introduction" class="invisible"></span>
         </div>
         <hr class="border-black opacity-20 mb-8">
         <p class="mb-2">
@@ -19,7 +20,7 @@
           headers: {
             'Accept': 'application/json',
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer {token}}',
+            `Authorization: Bearer ${token}`,
           },
         })
         </code>
@@ -27,6 +28,7 @@
         </div>
         <div class="text-3xl mt-8 mb-2">
             API Endpoints
+            <span id="apiendpoints" class="invisible"></span>
         </div>
         <hr class="border-black opacity-20 mb-8">
         <table class="bg-gray-100 border-opacity-20 table-auto">
@@ -56,19 +58,5 @@
             </tbody>
 
         </table>
-        <div class="mb-8 mt-8">
-            <h2 class="text-2xl font-bold"><code>/lyrics</code></h2>
-            <p>Returns random lyrics</p>
-        </div>
-
-        <div class="mb-8">
-            <h2 class="text-2xl font-bold"><code>/song</code></h2>
-            <p>Returns random song</p>
-        </div>
-
-        <div class="mb-8">
-            <h2 class="text-2xl font-bold"><code>/album</code></h2>
-            <p>Returns random album</p>
-        </div>
     </div>
 @endsection
