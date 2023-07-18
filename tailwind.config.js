@@ -6,7 +6,18 @@ module.exports = {
         "./resources/**/*.vue",
     ],
     theme: {
-        extend: {},
+        extend: {
+            colors: {
+                cream: '#f8f9f1',
+                red: '#de3844',
+                darkred: '#73050f',
+                blue: '#789a99',
+                black: '#131224'
+            },
+            fontFamily: {
+                'raleway': [ 'Raleway', 'sans-serif' ],
+            }
+        },
     },
     plugins: [],
 }

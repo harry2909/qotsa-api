@@ -1,7 +1,7 @@
 export default function init() {
     const generateTokenButton = document.querySelector('#js-generate-token');
     generateTokenButton.addEventListener('click', () => {
-        fetch('/generate-token', {
+        fetch('/api/lyrics', {
             method: 'POST',
             headers: {
                 'Accept': 'application/json',

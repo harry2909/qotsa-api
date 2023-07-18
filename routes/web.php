@@ -15,6 +15,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/documentation', function () {
+    return view('documentation');
+});
+
 Route::get('/register', function () {
     return view('register');
 });

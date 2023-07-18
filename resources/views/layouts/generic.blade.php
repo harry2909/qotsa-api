@@ -7,12 +7,18 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+    @include('fonts.roboto')
     @vite('resources/js/app.js')
 </head>
-<body>
-<div class="container">
-    @yield('content')
+<body class="font-raleway">
+<div class="flex">
+    <div class="w-1/5">
+        @include('components.nav')
+    </div>
+    <div class="w-full bg-cream">
+        @include('components.header')
+        @yield('content')
+    </div>
 </div>
 </body>
 </html>
