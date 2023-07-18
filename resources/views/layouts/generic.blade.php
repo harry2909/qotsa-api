@@ -10,12 +10,12 @@
     @include('fonts.roboto')
     @vite('resources/js/app.js')
 </head>
-<body class="font-raleway">
-<div class="flex">
-    <div class="w-1/5">
+<body class="font-raleway bg-cream">
+<div class="flex flex-col sm:flex-row">
+    <div class="w-full sm:w-1/5">
         @include('components.nav')
     </div>
-    <div class="w-full bg-cream">
+    <div class="w-full">
         @include('components.header')
         @yield('content')
     </div>

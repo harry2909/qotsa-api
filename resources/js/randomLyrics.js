@@ -6,7 +6,7 @@ export default function init() {
             headers: {
                 'Accept': 'application/json',
                 'Content-Type': 'application/json',
-                'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').getAttribute('content'),
+                'Authorization': 'Bearer {token}}',
             },
         })
             .then(response => response.json())
