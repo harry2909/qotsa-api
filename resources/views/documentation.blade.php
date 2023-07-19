@@ -8,8 +8,15 @@
         <hr class="border-black opacity-20 mb-8">
         <p class="mb-2">
             This API can be used to gather information on random QOTSA lyrics, songs and albums.<br>
-            To get started, register for an account and login. You will then be able to generate an API token which you
-            can use to make requests to the API.<br>
+            To get started, register below to generate your token.<br>
+        </p>
+        <div class="max-w-sm">
+            @include('components.register')
+        </div>
+        <div
+            class="hidden shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 bg-white leading-tight focus:outline-none focus:shadow-outline"
+            id="js-token"></div>
+        <p class="my-2">
             API requests will need to be made with a bearer token in the header, like so:<br>
         </p>
         <div class="bg-gray-100 border-black border-2 border-opacity-20">

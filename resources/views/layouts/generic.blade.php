@@ -12,7 +12,7 @@
 </head>
 <body class="font-raleway bg-cream">
 <div class="flex flex-col sm:flex-row">
-    <div class="w-full sm:w-1/5">
+    <div class="w-full sm:w-1/4 md:w-1/5">
         @include('components.nav')
     </div>
     <div class="w-full">

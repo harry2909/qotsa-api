@@ -2,11 +2,10 @@
 
 namespace App\Services;
 
-use App\Http\Requests\LoginUserRequest;
 use App\Http\Requests\StoreUserRequest;
 use App\Interfaces\UserRepositoryInterface;
 use App\Interfaces\UserServiceInterface;
-use Illuminate\Http\JsonResponse;
+use Illuminate\Contracts\Auth\Authenticatable;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Support\Facades\Auth;
 
@@ -19,29 +18,27 @@ class UserService implements UserServiceInterface
         $this->userRepository = $userRepository;
     }
 
-    public function saveUser(StoreUserRequest $request): RedirectResponse
+    public function saveUser(StoreUserRequest $request): bool|int
     {
-        $this->userRepository->saveUser($request);
-        return redirect()->route('login');
-    }
-
-    public function loginUser(LoginUserRequest $request): RedirectResponse
-    {
-        $userCredentials = $request->only('email', 'password');
-
-        if (Auth::attempt($userCredentials)) {
-            return redirect()->route('generate-token');
+        $user = $this->userRepository->saveUser($request);
+        if (Auth::user()) {
+            $this->logoutUser();
         }
-
-        return back()->withErrors([
-            'email' => 'The provided credentials do not match our records.',
-        ]);
+        $this->loginUser($user);
+        if ($user) {
+            return $user;
+        }
+        return false;
     }
 
-    public function logoutUser(): RedirectResponse
+    public function loginUser(int $user): bool|Authenticatable
+    {
+        return Auth::loginUsingId($user);
+    }
+
+    public function logoutUser(): void
     {
         Auth::logout();
-        return redirect()->route('login');
     }
 
     public function generateToken(): String

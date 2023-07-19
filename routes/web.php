@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/documentation', function () {
+Route::get('/', function () {
     return view('documentation');
 });
 
@@ -28,12 +28,6 @@ Route::post('/register', [UserController::class, 'saveUser']);
 Route::get('/generate-token', function () {
     return view('generate-token');
 })->name('generate-token');
-
-Route::get('/login', function () {
-    return view('login');
-})->name('login');
-
-Route::post('/login', [UserController::class, 'loginUser']);
 
 Route::get('/logout', function () {
     Auth::logout();

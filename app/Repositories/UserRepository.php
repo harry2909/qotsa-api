@@ -18,7 +18,7 @@ class UserRepository implements UserRepositoryInterface
         $this->hasher = $hasher;
     }
 
-    public function saveUser(StoreUserRequest $request)
+    public function saveUser(StoreUserRequest $request): int
     {
         $user = new $this->model([
             'email' => $request->email,
@@ -26,5 +26,6 @@ class UserRepository implements UserRepositoryInterface
             'password' => $this->hasher->make($request->password),
         ]);
         $user->save();
+        return $user->id;
     }
 }
