@@ -1,4 +1,18 @@
 export default function init() {
+    const showRegistrationForm = document.querySelector('.js-show-registration-form');
+    const showLoginForm = document.querySelector('.js-show-login-form');
+    let userEndpoint;
+    const submitButton = document.querySelector('.js-user-submit');
+    if (showRegistrationForm && showLoginForm) {
+        showRegistrationForm.addEventListener('click', () => {
+            userEndpoint = '/register'
+            submitButton.innerHTML = 'Register';
+        });
+        showLoginForm.addEventListener('click', () => {
+            userEndpoint = '/login'
+            submitButton.innerHTML = 'Login';
+        });
+    }
     const registrationForm = document.querySelector('.js-register');
     if (registrationForm) {
         registrationForm.addEventListener('submit', async (e) => {
@@ -7,7 +21,7 @@ export default function init() {
             const formData = new FormData(registrationForm);
 
             try {
-                const response = await fetch('/register', {
+                const response = await fetch(userEndpoint, {
                     method: 'POST',
                     headers: {
                         'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').getAttribute('content'),

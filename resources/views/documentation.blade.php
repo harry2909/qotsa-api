@@ -11,6 +11,16 @@
             To get started, register below to generate your token.<br>
         </p>
         <div class="max-w-sm">
+            <button
+                class="js-show-registration-form bg-red hover:bg-darkred text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+                type="submit">
+                Register
+            </button>
+            <button
+                class="mb-2 js-show-login-form bg-red hover:bg-darkred text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+                type="submit">
+                Login
+            </button>
             @include('components.register')
         </div>
         <div

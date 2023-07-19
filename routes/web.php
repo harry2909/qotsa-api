@@ -19,15 +19,13 @@ Route::get('/', function () {
     return view('documentation');
 });
 
-Route::get('/register', function () {
-    return view('register');
-});
-
 Route::post('/register', [UserController::class, 'saveUser']);
 
 Route::get('/generate-token', function () {
     return view('generate-token');
 })->name('generate-token');
+
+Route::post('/login', [UserController::class, 'loginUser']);
 
 Route::get('/logout', function () {
     Auth::logout();

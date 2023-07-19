@@ -2,6 +2,7 @@
 
 namespace App\Services;
 
+use App\Http\Requests\LoginUserRequest;
 use App\Http\Requests\StoreUserRequest;
 use App\Interfaces\UserRepositoryInterface;
 use App\Interfaces\UserServiceInterface;
@@ -24,16 +25,22 @@ class UserService implements UserServiceInterface
         if (Auth::user()) {
             $this->logoutUser();
         }
-        $this->loginUser($user);
+        $this->loginUserWithId($user);
         if ($user) {
             return $user;
         }
         return false;
     }
 
-    public function loginUser(int $user): bool|Authenticatable
+    public function loginUserWithId(int $user): bool|Authenticatable
     {
         return Auth::loginUsingId($user);
+    }
+
+    public function loginUser(LoginUserRequest $request): bool
+    {
+        $credentials = $request->only('email', 'password');
+        return Auth::attempt($credentials);
     }
 
     public function logoutUser(): void

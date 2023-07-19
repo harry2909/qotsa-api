@@ -26,7 +26,7 @@
 
     <div class="flex items-center justify-between">
         <button
-            class="bg-red hover:bg-darkred text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+            class="js-user-submit bg-red hover:bg-darkred text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
             type="submit">
             Register
         </button>
