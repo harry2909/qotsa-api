@@ -84,4 +84,12 @@ class UserTest extends TestCase
         $response = $this->json('GET', '/generate-token/');
         $response->assertJson(['token' => false]);
     }
+
+    /** @test */
+    public function user_can_logout(): void
+    {
+        $this->withoutExceptionHandling();
+        $response = $this->actingAs($this->user)->json('GET', '/logout/');
+        $response->assertStatus(200);
+    }
 }
