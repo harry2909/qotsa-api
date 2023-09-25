@@ -32,25 +32,26 @@ export default function init() {
 
             const formData = new FormData(elements.userManagementForm);
 
-            try {
-                const response = await fetch(userEndpoint, {
-                    method: 'POST',
-                    headers: {'X-CSRF-TOKEN': elements.csrf},
-                    body: formData
-                });
-
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-
-                elements.userManagementForm.classList.add('hidden'); // Hide the form here.
-                // Call the function to generate the token after successful registration
-                await fetchToken(tokenEndpoint);
-            } catch (error) {
-                elements.userManagementForm.classList.remove('hidden');
-                errorHandling(error.message);
-            }
+            await postData(userEndpoint, elements.csrf, formData);
         });
+    }
+
+    async function postData(url, csrf, bodyData) {
+        try {
+            const response = await fetch(url, {
+                method: 'POST',
+                headers: { 'X-CSRF-TOKEN': csrf },
+                body: bodyData
+            });
+
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+
+            return await response.json();
+        } catch (error) {
+            errorHandling(error.message);
+        }
     }
 
     async function fetchToken(tokenEndpoint) {
