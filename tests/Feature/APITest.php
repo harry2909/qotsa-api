@@ -2,6 +2,7 @@
 
 namespace Tests\Feature;
 
+use App\Models\User;
 use Tests\TestCase;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
 
@@ -10,18 +11,21 @@ class APITest extends TestCase
 
     use DatabaseMigrations;
 
+    protected User $user;
+
     public function setUp(): void
     {
         parent::setUp();
         $this->artisan('migrate:fresh');
         $this->artisan('db:seed --class=AlbumSongLyricsSeeder');
+        $this->user = User::factory()->create();
     }
 
     /** @test */
     public function lyrics_endpoint_returns_200(): void
     {
         $this->withoutExceptionHandling();
-        $response = $this->json('GET', '/api/lyrics/');
+        $response = $this->actingAs($this->user)->json('GET', '/api/lyrics/');
         $response->assertStatus(200);
     }
 
@@ -29,7 +33,7 @@ class APITest extends TestCase
     public function song_endpoint_returns_200(): void
     {
         $this->withoutExceptionHandling();
-        $response = $this->json('GET', '/api/song/');
+        $response = $this->actingAs($this->user)->json('GET', '/api/song/');
         $response->assertStatus(200);
     }
 
@@ -37,7 +41,7 @@ class APITest extends TestCase
     public function album_endpoint_returns_200(): void
     {
         $this->withoutExceptionHandling();
-        $response = $this->json('GET', '/api/album/');
+        $response = $this->actingAs($this->user)->json('GET', '/api/album/');
         $response->assertStatus(200);
     }
 
@@ -45,7 +49,7 @@ class APITest extends TestCase
     public function lyrics_endpoint_returns_data_with_specific_json_structure(): void
     {
         $this->withoutExceptionHandling();
-        $response = $this->json('GET', '/api/lyrics/');
+        $response = $this->actingAs($this->user)->json('GET', '/api/lyrics/');
         $response->assertStatus(200)
             ->assertJsonStructure([
                 'id',
@@ -58,7 +62,7 @@ class APITest extends TestCase
     public function song_endpoint_returns_data_with_specific_json_structure(): void
     {
         $this->withoutExceptionHandling();
-        $response = $this->json('GET', '/api/song/');
+        $response = $this->actingAs($this->user)->json('GET', '/api/song/');
         $response->assertStatus(200)
             ->assertJsonStructure([
                 'id',
@@ -71,7 +75,7 @@ class APITest extends TestCase
     public function album_endpoint_returns_data_with_specific_json_structure(): void
     {
         $this->withoutExceptionHandling();
-        $response = $this->json('GET', '/api/album/');
+        $response = $this->actingAs($this->user)->json('GET', '/api/album/');
         $response->assertStatus(200)
             ->assertJsonStructure([
                 'id',

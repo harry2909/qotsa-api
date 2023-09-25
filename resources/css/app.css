@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+code {
+    @apply text-red text-base bg-gray-100 px-1 py-1 rounded-md;
+}
+
+pre, code {
+    @apply whitespace-normal sm:whitespace-pre-wrap;
+}
+
+.js-dropdown {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.js-dropdown.open {
+    visibility: visible;
+    max-height: 500px;
+    transition: max-height 0.3s ease;
+}
+
+@keyframes dropdownAnimation {
+    0% {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.js-dropdown.open li {
+    animation: dropdownAnimation 0.3s ease;
+    animation-fill-mode: forwards;
+}

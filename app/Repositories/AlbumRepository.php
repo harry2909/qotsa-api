@@ -15,6 +15,6 @@ class AlbumRepository implements AlbumInterface
     }
     public function getRandomAlbum()
     {
-        return $this->model->first();
+        return $this->model->inRandomOrder()->first();
     }
 }
