@@ -89,7 +89,7 @@ class UserTest extends TestCase
     public function user_can_logout(): void
     {
         $this->withoutExceptionHandling();
-        $response = $this->actingAs($this->user)->json('GET', '/logout/');
-        $response->assertStatus(200);
+        $response = $this->actingAs($this->user)->get('/logout/');
+        $response->assertStatus(302);
     }
 }
