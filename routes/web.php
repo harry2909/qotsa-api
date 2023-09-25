@@ -21,16 +21,12 @@ Route::get('/', function () {
 
 Route::post('/register', [UserController::class, 'saveUser']);
 
-Route::get('/generate-token', function () {
-    return view('generate-token');
-})->name('generate-token');
-
 Route::post('/login', [UserController::class, 'loginUser']);
 
 Route::get('/logout', function () {
     Auth::logout();
     return redirect()->route('login');
 });
-Route::middleware('throttle:5,60')->group(function () {
-    Route::post('/generate-token', [UserController::class, 'generateToken']);
+Route::middleware('throttle:20,60')->group(function () {
+    Route::get('/generate-token', [UserController::class, 'generateToken']);
 });

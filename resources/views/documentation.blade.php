@@ -17,11 +17,11 @@
                 Register
             </button>
             <button
-                class="mb-2 js-show-login-form bg-red hover:bg-darkred text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+                class="mb-2 js-show-token-form bg-red hover:bg-darkred text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
                 type="submit">
-                Login
+                Request New Token
             </button>
-            @include('components.register')
+            @include('components.user-management')
         </div>
         <div
             class="hidden shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 bg-white leading-tight focus:outline-none focus:shadow-outline"

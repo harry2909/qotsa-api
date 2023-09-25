@@ -1,4 +1,4 @@
-<form class="js-register">
+<form class="js-user-management">
     @csrf
     <div class="mb-4">
         <label class="block text-gray-700 text-md font-bold mb-2" for="email">

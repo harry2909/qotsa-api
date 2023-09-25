@@ -6,7 +6,6 @@ use App\Http\Requests\LoginUserRequest;
 use App\Services\UserService;
 use App\Http\Requests\StoreUserRequest;
 use Illuminate\Http\JsonResponse;
-use Illuminate\Support\Facades\Auth;
 
 class UserController extends Controller
 {
@@ -25,11 +24,6 @@ class UserController extends Controller
     public function loginUser(LoginUserRequest $request): JsonResponse
     {
         return response()->json(['user' => $this->userService->loginUser($request)]);
-    }
-
-    public function returnToken(): JsonResponse
-    {
-        return response()->json(['token' => $this->userService->generateToken()]);
     }
 
     public function generateToken(): JsonResponse

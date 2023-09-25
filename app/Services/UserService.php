@@ -7,7 +7,6 @@ use App\Http\Requests\StoreUserRequest;
 use App\Interfaces\UserRepositoryInterface;
 use App\Interfaces\UserServiceInterface;
 use Illuminate\Contracts\Auth\Authenticatable;
-use Illuminate\Http\RedirectResponse;
 use Illuminate\Support\Facades\Auth;
 
 class UserService implements UserServiceInterface
@@ -32,7 +31,7 @@ class UserService implements UserServiceInterface
         return false;
     }
 
-    public function loginUserWithId(int $user): bool|Authenticatable
+    public function loginUserWithId(int $user): Authenticatable|bool
     {
         return Auth::loginUsingId($user);
     }
@@ -48,10 +47,16 @@ class UserService implements UserServiceInterface
         Auth::logout();
     }
 
-    public function generateToken(): String
+    public function generateToken(): bool|string
     {
-        $user = Auth::user();
-        $tokenResult = $user->createToken('authToken');
-        return $tokenResult->plainTextToken;
+        if (Auth::user()) {
+            // Delete all existing tokens
+            Auth::user()->tokens()->delete();
+
+            // Create a new token
+            $token = Auth::user()->createToken('authToken');
+            return $token->plainTextToken;
+        }
+        return false;
     }
 }
