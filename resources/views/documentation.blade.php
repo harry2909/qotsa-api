@@ -1,6 +1,6 @@
 @extends('layouts.generic')
 @section('content')
-    <div class="p-6 sm:p-12 md:p-24 h-screen">
+    <div class="p-6 sm:p-12 md:p-24 min-h-screen">
         <div class="text-3xl mb-2">
             Introduction
             <span id="introduction" class="invisible"></span>
